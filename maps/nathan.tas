@@ -1,0 +1,164 @@
+console load PerchoirsBirthday/1-PerchoirsBirthday/NathanBirthday
+   1
+#Start
+ 110
+
+#lvl_1
+   1,S
+   1,D,J
+  34
+   5,R,D,X
+   1,R,J
+   7,R
+   7,R,J
+  15,R,D,X
+   2,R,J
+   5,R,D,X
+   4,R,J,G
+  17,R
+   2,R,J
+   5,R,K,G
+   2,R
+   4,R,J,G
+  40
+
+#lvl_2
+   4,R,J
+  15,R,D,X
+   1,R
+  13,R,D,J
+   9,U,X
+  15,J
+   2,R,J
+  76,L,D
+  21,L,D,X
+  11,L,C
+  51,R
+  23,R,U,X
+   4,R,J
+   7,R,Z
+  24,R,J
+   8,U,X
+  14,R
+  25,R,D,X
+   4,D,C
+   1,R,J
+   5,R
+  40
+
+#lvl_3
+   1,R
+  15,R,D
+   4,R,J
+   1,K,G
+  24,R,K,G
+   1,R
+   8,L
+  11,R,U,X
+  25,R,G
+  28,R,D,G
+  15,L,D,G
+   3,R,D,G
+  12,R,G
+   6,L,G
+   1,R
+  22,R,U,X
+  16,J,G
+   1,J,G
+   1,R,J,G
+  17,R,G
+   1,L
+  58,R,D
+  15,R,Z
+   5,R,D
+   2,L,D
+  23,L,D,G
+  30,R,D,G
+   6,R
+  17,R,U,X
+   5,R,C
+  21,R,G
+   1,L
+  15,R
+   4,R,Z
+   2,R,J
+   9,R,K,G
+  10,R,J,G
+   2
+   5,R
+   2,R,J
+  40
+
+#lvl_4
+   6,R,J
+  10,R,D,X
+   1,S
+   1,D,J
+  34
+   7,D
+   1,N
+   3,L,J
+  15,U,X
+  45
+  14,U,X
+  16,L,J
+  37,R
+  14,R,U,X
+   3,R,J,G
+   1,K,G
+   6,R
+   1,L
+   3,L,J
+  10,J
+  15,U,X
+  12,R
+   2
+  10,L
+  16,L,J
+  15,U,X
+  62,R
+  23,R,X
+  49,L
+  13,L,U,X
+ 279
+  40
+
+#lvl_5
+  11,R
+  12,R,U,X
+   1,R,J,G
+  13,R
+   7,R,X
+  13,R,J
+  32,R,C
+  17,R,U,Z
+  11,R,D,C
+  54,R,J,G
+  16,R,Z
+   9,R,C
+   3,R,J,G
+  15,R,K,G
+  91,R,X
+  22,R,C
+ 209,R,X
+  26,R,D,C
+  40
+
+#lvl_final
+   2,R,J
+   8,R
+   4,R,J
+   1,S
+   1,D,J
+  38,R,J
+  16,U,X
+  25,R,J
+   1,R
+   1,S
+   1,D,J
+  80,R,D
+   5,R,J
+   9,R,X
+ 135,R
+
+ChapterTime: 0:42.687(2511)
