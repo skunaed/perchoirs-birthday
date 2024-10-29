@@ -92,17 +92,18 @@ console load PerchoirsBirthday/1-PerchoirsBirthday/MaestroBirthday
 
 #lvl_4 (0)
    9,R
-   1,R,J
-  14,R
-  18,R,J
-   1,R,K,G
+   5,R,J
+  28,R
+   2,R,D
    1,R,J,G
-  12,R,D
-   9,D
-   4,R,D
+  10,R,K,G
    5,R
-   2,R,J,G
-  25,R,D
+   1,R,J
+   9,R
+   1,R,J,G
+   5,R
+   1,R,J
+  19,R,D
   12,R,U,X
    7,R,J,G
    4,R
@@ -124,32 +125,30 @@ console load PerchoirsBirthday/1-PerchoirsBirthday/MaestroBirthday
   11,R,D,J
    1,R,K
    6,R,J
-  15,U,X
-  14,R
+   9,R,U,X
+   1,J,G
+   1,L,J
+   1,R,J
+  14,R,K,G
+   1,R,J,G
+   1,R,K,G
+  12,R
    1,R,J
   14,R
-   1,R,J
-  14,R
-  14,R,J
-  18,R,D
-
-   1,R,D
-   4,F,100
-   3,R,D
-  15,F,165
-   4,F,110
-   6,R
-  38,U
-   5,F,40
-  13,F,60
-  12,U
+   6,R,J
+  27,R,D
+   6,F,120
+  17,F,162
+  46,U
+  19,F,56
+  11,U
   40
 
 #lvl_final
-  18,F,348
-   2
+   9,F,35
+  12,F,310
    1,L,J,G
-  13,L
+  12,L
    1,L,J
   14,L
    1,L,J
@@ -157,24 +156,19 @@ console load PerchoirsBirthday/1-PerchoirsBirthday/MaestroBirthday
    1,L,J
   14,L
    1,L,J
-  18,L
-   1,S
-   1,D,J
-  34
-   6,R,Z
+   4,R,Z
    1,R,J
    7,R
    1,R,J
-  14,R,D,X
-   1,R,J
-  15,D,X
+  13,R
+  15,D,C
    5,R,D
    4,D
   40
 
 #lvl_5 (1)
   10,L,D
-   2
+   2,L
    2,L,J,G
   14,L
   15,L,Z
@@ -260,4 +254,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday/MaestroBirthday
   15,U,X
  135,D
 
-ChapterTime: 0:38.947(2291)
+ChapterTime: 0:36.482(2146)
