@@ -2,12 +2,13 @@ console load PerchoirsBirthday/1-PerchoirsBirthday/MaestroBirthday
    1
 
 #Start
- 110
+repeat 30
+   1,J
+   1,O
+endrepeat
+  14
 
 #lvl_1 (0)
-   1,S
-   1,D,J
-  34
    5,R
    1,R,J
   14,R
@@ -254,4 +255,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday/MaestroBirthday
   15,U,X
  135,D
 
-ChapterTime: 0:36.482(2146)
+ChapterTime: 0:35.258(2074)

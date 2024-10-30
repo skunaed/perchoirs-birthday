@@ -1,12 +1,14 @@
 console load PerchoirsBirthday/1-PerchoirsBirthday/AlympieBirthday
    1
 #Start
- 110
+***s
+repeat 30
+   1,J
+   1,O
+endrepeat
+   5
 
 #lvl_1
-   1,S
-   1,D,J
-  34
    6,R,Z
    1,R,J
    7,R

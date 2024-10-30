@@ -1,12 +1,14 @@
 console load PerchoirsBirthday/1-PerchoirsBirthday/NathanBirthday
    1
 #Start
- 110
+***s
+Repeat 40
+   1,J
+   1,O
+EndRepeat
+   1
 
 #lvl_1
-   1,S
-   1,D,J
-  34
    1,R,J
    4,R,Z
    1,R,J
