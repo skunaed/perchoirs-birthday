@@ -1,14 +1,26 @@
-console load PerchoirsBirthday/0-Lobbies/1-PerchoirsBirthday 176 -56
-   1
-
-#Start
-  36
+#exitwarp
 
 #lvl_lobby_main
-  10,R,Z
-   1,R,J
-  68,R,D
-   6,R
+  36
+   1,L,J
+  10,R,D,X
+  19,R,J
+  14,R,Z
+   6,R,J
+  15,R,D,X
    1,N
+#0:00.952(56)
+
+
+
+#console load PerchoirsBirthday/0-Lobbies/1-PerchoirsBirthday 176 -56
+#   1
+
+#  36
+#  10,R,Z
+#   1,R,J
+#  68,R,D
+#   6,R
+#   1,N
 
 #0:01.411(83)

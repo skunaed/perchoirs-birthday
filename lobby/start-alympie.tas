@@ -5,23 +5,26 @@ console load PerchoirsBirthday/0-Lobbies/1-PerchoirsBirthday
  190
 
 #lvl_lobby_main
-   5,L
-  16,L,J
-  15,U,Z
-  12,R,J,G
-   1
-   2,K,G
-   6,R
-   1,L
-  10,L,J
-  12,L,K,G
-   5,L,J,G
+   5,R,J
   15,U,X
-   9,R,J,G
-   7,R
-   8,R,J
-  10,R,Z
-   1,R,J
+   7,L,J
+  12,L,K,G
+   3,J,G
+   1,K,G
+   7,L
+   1,R
+  14,R,J
+  19,U,X
+   9,L,J,G
+   1
+   5,K,G
+   1
+   5,K,G
+   7,L
+   2,L,J
+   1,L
+  12,L,Z
+   1,L,J
    1,N
 
-#0:02.159(127)
+#0:02.040(120)

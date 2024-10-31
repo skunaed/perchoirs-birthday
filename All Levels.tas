@@ -1,19 +1,20 @@
 Read,StartFullCollabFile
 
-Read,lobby/start-maestro,lvl_lobby_main
+Read,lobby/start-nathan,lvl_lobby_main
 Read,EnterLevel,Start
-Read,maps/maestro,Start
+Read,maps/nathan,Start
    1,O
   32
 
-Read,lobby/maestro-alympie,lvl_lobby_main
+Read,lobby/nathan-alympie,lvl_lobby_main
 Read,EnterLevel,Start
 Read,maps/alympie,Start
    1,O
   32
 
-Read,lobby/alympie-nathan,lvl_lobby_main
+
+Read,lobby/alympie-maestro,lvl_lobby_main
 Read,EnterLevel,Start
-Read,maps/nathan,Start
+Read,maps/maestro,Start
    1,O
   32
