@@ -1,4 +1,4 @@
-console load PerchoirsBirthday/1-PerchoirsBirthday/MaestroBirthday
+console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/MaestroBirthday
    1
 
 #Start
@@ -242,13 +242,9 @@ endrepeat
    2,L,J,G
   10,L,D
    3,D
-  16,L,D
-   1,L
-   1,L,D
-   4,L
+  22,L,D
    6,L,X
-   1,L,J
-   2,L,J
+   3,L,J
   40
 
 #lvl_1 (1)
