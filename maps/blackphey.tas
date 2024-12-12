@@ -1,10 +1,13 @@
-RecordCount: 495
+RecordCount: 776
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/BlackpheyBirthday
    1
 
 #Start
  190
+
+#spinner
+   2
 
 #lvl_1
   19,R,U,X
@@ -15,37 +18,34 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/BlackpheyBirthday
    4,R,Z
   12,R,K
    6,R
+   5,R,Z
    1,R,J
-   8,R,D,X
+   3,R
   40
 
 #lvl_2
+   4,R
+   5,R,D,J
    6,R
-  11,R,J
-  16,R,D
-  15,R,X
-  18,R,D,G
-  18,R,G
-   1,J,G
-   1,L,J
-   1,R,K,G
-   1,R,J,G
-  39,L,J
-  40,R
-
-  21,R,U,G
-   3,G
-   6,R,D,G
-   2,G
+   3,R,J
+   9,R
+  26,L,D,X
+  36,R,D
+   7,D
+   2,R,D
+   4,D
+  15,R,J
+   2,J
+  16,U,X
    1,R,J,G
    1,R,K,G
-   2,R
-   1,R,K,G
-   1,R
-  12,R,J,G
-  10,R
+   9,R,J,G
+   5,R
    1,R,J
-  14,R,D,X
+   8,R
+  14,R,Z
+   1,R,J
+   5,R,D,X
    1,R,J
    5,R
   40
@@ -79,40 +79,33 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/BlackpheyBirthday
   40
 
 #lvl_5
-  14,R,J
-  21,R,D,X
-   5,R
+   8,R,J
+   8,R
+  15,D,X
+   5,R,D
   10,R,C
-   5,R,J
-   1,K
-   7,L,K
-   4,J,G
-   1,R,J
-   1,L,J
-   1,K,G
-   5,R,K
-   1,R,J,G
+   6,R,J
+  10,U,X
+   4,R,J
    1,R,K,G
-  12,R
-  14,R,D,X
+   8,R
    1,R,J
-  14,R,D,X
+  14,R
+   7,R,Z
    1,R,J
-   7,R,D,X
+   6,R
+   8,R,D,J
+   5,R,D,X
   40
 
 #lvl_6
-   2,R,J
-   3,J
-  23,D
-   1
-   4,R
-  14,R,Z
-   2,R,J
+  11,R,D,X
+   1,D,J
+   3,R,D,J
    2,R
-  10,R,Z
-   3,R,J
-   3,R
+   6,R
+  20,R,D,X
+   2,R,J
   12,R,Z
    9,R,J,G
    3,R
@@ -132,7 +125,6 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/BlackpheyBirthday
   25,R,D,X
    1,R,J
   14,R,D,X
-
    1,R,J
   10,R,D,X
    1,R,J
@@ -163,72 +155,49 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/BlackpheyBirthday
    3,L,D
    1,R,J,G
    7,R
-   4
-   4,L
-  14,L,Z
+   2
+  14,R,Z
    1,L,J
-  11,L,D,X
+   2
+   1,J
+   5
+  14,L,Z
+   1,R,J
+   6,R
+   1,R,J
+  11,R,D,X
    1,R,J
    7,R
-   1,R,J
-   4,R
-   8,R,D,X
-
-   1,R,J,G
-  11,R
-   1
-   1,R,J
-   6,J
+   7,R,J
    5,R,D,X
   40
 
-#lvl_10 (0)
+#lvl_10
   23,R,D
   14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
+   7,R,D,X
+stunpause
+   2,R,D,X
    1,R,J
-  14,R,D,X
-
+   3,R
    1,R,J
-   5,R
-  40
-
-#lvl_11
-   1,R,J
-   7,R,J
-   5,R
-  14,U,X
-  29,L,U,G
-  18,G
-   4,R,X
-  11,R,J
-   1
-   7,J
-  42,L,D
-
-Repeat, 9
-   1,L,J
-  14,L
-EndRepeat
-   1,L,J
-  10,L
-  40
-
-#lvl_10 (1)
-   4,L
-   3,L,J
-   1,L
-   6,L,J
-   2,J
-   5,U,X
-  25,L,J
-  22,L,U,X
-   4,R,C
-  32,R,D
+   3,R
+   8,R,J
+   3,J
    2,R,J
- 104,R,D,X
+   1,L,K
+endstunpause
+  15,L,K
+  15,U,X
+  10,L
+   4,L,Z
+  11,L,J
+  36,R,D,X
+   2,L,J
+  30,L,D,X
+  74,L,J
 
-ChapterTime: 0:32.521(1913)
+ChapterTime: 0:26.894(1582)
