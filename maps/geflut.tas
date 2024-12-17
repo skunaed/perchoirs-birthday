@@ -1,7 +1,4 @@
-# PerchoirsBirthday
-# https://gamebanana.com/mods/550424
-
-RecordCount: 201
+RecordCount: 436
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/GeflutBirthday
    1
@@ -10,39 +7,44 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/GeflutBirthday
  110
 
 #lvl_1
-  11,R,Z
-   4,R,J
-  17,R,D,X
+   6,L,D,X
    1,R,J
-   7,R,J
+   7,R
+   1,R,J
+   3,R
+  18,R,D,X
+   6,R,J
    2,L,J
   15,L,D,X
-  10,L,J
-  21,R,J
+   9,L,J
+  18,R,J
   15,R,D,X
-   6,R
-   4,R,J,G
    8,R
-   1,R,J
+   2,R,J
+   3,R
+   2,R,K,G
+   1,R
   40
 
 #lvl_2
-   3,R,J
-   8,R,K,G
+   2,R
+   8,R,J,G
   15,R,D,X
-   2,R,J
-  17,R,D,X
-   5,R
-   3,R,D
    1,R,J
-   4
+  18,R,D,X
+   1
+   1,R,D,J
+   1
+   1,R
+   2
    8,R,D,X
    1,R,J,G
-  11,R
-   2,R,J
-  24,R,D,X
-   2,R,J
-  25,R,D,X
+   4
+   7,R
+   1,R,J
+   1
+  21,R,D,X
+   1
    2,R,J
   22,R,D,X
   12,R,J
@@ -59,19 +61,21 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/GeflutBirthday
    6,R,U,Z
    1,L,J,G
    8,R,J
-   7,R
+   6,R
+   1
    1,R,J
-  16,R,X
+   1,J
+  15,R,X
+   4
+   1,R,J,G
+   2,R,K,G
+   5,R
    2
    1,R,J,G
-   1,R,K,G
-   7,R
-   1,R,J,G
-   2,R
-   4,R,J
-   4,R,D
-   2,R,J
-   3,R
+   1
+   5,R
+   1,R,J
+  10,R
   14,R,D,X
    3,R,J
   40,J
@@ -83,35 +87,23 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/GeflutBirthday
    9,U,X
   15,L
   13,J,G
-  12,K,G
-  14,U,X
-   4,R,J
+  11,K,G
+   1,R,K
+  15,U,X
+   2,J
   17,L,J
+  10,L,K,G
+  14,L,J,G
+  16,L,U,X
    4,K,G
    1,R,K
-   1,L,K
-   1,J
-  10,R,J
-   1,K
-   7,R,K
-   5,K
-   8,R,Z
-   3,R,J,G
-   7,R
-   9,R,J
-  14,U,X
-  25,L,J
-   1,L,K,G
-   4,R,K
-   2,L,K
-   1,L,J,G
-   5,L
-   2
+   4,J
+  12,L,K,G
+   7,L
   10,L,D,X
-
-   6,L,J
+   7,L,J
   14,L,X
-  22,L,D
+  23,L,D
   10,L
   23,L,D
    6,L,J
@@ -120,4 +112,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/GeflutBirthday
    1,R,K,G
   46,R,J,G
 
-ChapterTime: 0:14.535(855)
+ChapterTime: 0:13.277(781)
