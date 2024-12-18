@@ -127,10 +127,11 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/LeechyBirthday
   40
 
 #lvl_7
-  80,R
-   1
-  14,R
- 105,L
+  97,R
+   1,S
+   1,D,J
+  69,O
+  16,L
   40
 
 #lvl_6 (1)
@@ -244,4 +245,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/LeechyBirthday
   23,L
  135,D
 
-ChapterTime: 1:26.326(5078)
+ChapterTime: 1:26.054(5062)
