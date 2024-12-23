@@ -1,0 +1,136 @@
+# PerchoirsBirthday
+# https://gamebanana.com/mods/550424
+
+RecordCount: 218
+
+console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ArioksuBirthday
+   1
+
+#Start
+ 190
+
+#lvl_1
+   8,L,Z
+   1,R,J
+   7,R
+   1,R,J
+   4,R,D,X
+  23,R,G
+   6,L,G
+  26,U,X,G
+   1,L
+   4,R
+  14,R,D,X
+   1,R,J
+   5,R
+  14,R,D,X
+   1,L,J
+  14,L,D,X
+   1,R,J
+  13,R,D,X
+   1,R,J
+   2,R,K,G
+  12,R,D,X
+  40
+
+#lvl_2
+   2,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   7,R,D,X
+  26,R,G
+   4,R,J,G
+  29,R,U,K,G
+  10,R
+  13,U,X
+  23,R,G
+   4,R
+  20,L,X
+  14,L,D,C
+  23,L,J
+  14,U,X
+  28,R,J
+  15,U,X
+  14,R,C
+   4,R,J
+   1,R,K
+  10,R
+  14,R,D,X
+   1,R,J
+  14,R,U,X
+  44,R,G
+  10,R,D,G
+   8,R,G
+   5,R,D,G
+   1,L
+   1,R,J
+  14,R,D,X
+   1,R,J
+  40
+
+#lvl_3
+  14,R,D,X
+   1,R,J
+   8,R,D,X
+  28,R,G
+   4,L,G
+  20,L,X,G
+   4,R,G
+  28,U,X,G
+   6,R,G
+   4,R,D
+   1,J,G
+   1,L,J
+   1,R,K,G
+   1
+   2
+   6
+   5,R,X
+  22,R,G
+   4,L,G
+  23,R,U,X,G
+   4,L,G
+  18,R,X,G
+   4,L,G
+  17,D,X,G
+   4,L,D,G
+  20,R,X,G
+   4,L,G
+  10,R,X
+  44,R,J,G
+   2,L
+
+  12,R,U,Z
+   1,J
+   1,R
+   5,R,J
+   2,R
+   2,R,J
+  14,U,X
+   3,J
+  40
+
+#lvl_4
+  11
+   6,U,X
+  20,G
+  31,L,G
+   1,R
+  15,L,U,Z
+  14,U,X
+  11,R,J
+  25,R,J,G
+   1,L,J
+   3,R,J
+  13,U,X
+  27,R,J
+  17,R,X
+  14,U,C
+  25,R,J
+  14,R,Z
+   1,R,J
+   3,R
+ 146,R,U,X
+
+ChapterTime: 0:20.876(1228)
