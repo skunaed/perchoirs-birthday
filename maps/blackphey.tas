@@ -1,4 +1,4 @@
-RecordCount: 950
+RecordCount: 1070
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/BlackpheyBirthday
    1
@@ -149,27 +149,21 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/BlackpheyBirthday
    1,R,J
   23,R,G
    1,R,J,G
-  13,R,G
-  22,D
-  14,R,Z
-   1,R,J
-   5,R,D,X
-  15,R,G
-   4,R,D
-   3,L,D
-   1,R,J,G
+  10,R,G
+   1,D
+   1,R
+   6,L,X,G
+  16,L,G
    7,R
-   2
-  14,R,Z
-   1,L,J
-   2
-   1,J
-   5
-  14,L,Z
+  14,R,X
+  31,R,G
+   1,R,J,G
+  10,R
+  10,L,D,Z
    1,R,J
    6,R
    1,R,J
-  11,R,D,X
+  10,R,D,X
    1,R,J
    7,R
    7,R,J
@@ -204,4 +198,4 @@ endstunpause
   30,L,D,X
   74,L,J
 
-ChapterTime: 0:26.741(1573)
+ChapterTime: 0:26.486(1558)
