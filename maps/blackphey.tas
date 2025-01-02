@@ -1,4 +1,4 @@
-RecordCount: 1349
+RecordCount: 1428
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/BlackpheyBirthday
    1
@@ -53,41 +53,34 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/BlackpheyBirthday
 #lvl_3
    2,R,D,X
   10,R,J
-   7,R,D
-  19,L,D
-   5
-   2,L
+   5,R,D
+  20,L,D
+  11
   14,L,Z
    1,R,J
-   5,R,D,X
+   6,R,D,X
    1,R,J,G
-  26,R,J
-   3,R,K
+   1,R,K,G
+  12,R,J,G
+  10,R
+   1,R,J
+   2,R
   40
 
 #lvl_4
-   8,R,K
-   1
-   7,R
-   3,R,K
-   2,R,J,G
-   7
-   1,R,J,G
-   3,R
-   6
-   1,R,J,G
-   4,R
-   6,R,D,X
-  15,R
+  24,R
+  13,R,U,Z
+   5,R,J,G
   40
 
 #lvl_5
-   8,R,J
+   3,R,J
    9,R
   15,D,X
-   5,R,D
+   4,R,D
   10,R,C
-   6,R,J
+   3,J
+   3,R,J
   10,U,X
    4,R,J
    1,R,K,G
@@ -204,4 +197,4 @@ endstunpause
   30,L,D,X
   74,L,J
 
-ChapterTime: 0:26.367(1551)
+ChapterTime: 0:25.908(1524)
