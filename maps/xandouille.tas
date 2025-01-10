@@ -1,4 +1,4 @@
-RecordCount: 491
+RecordCount: 600
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/XandouilleBirthday
    1
@@ -158,7 +158,6 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/XandouilleBirthday
    3,R,K,G
   12,R
   18,R,J
-
    2,J
    8,R,J
    1,R,K,G
@@ -170,18 +169,21 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/XandouilleBirthday
    1,R,J
   10,R,D
    6,D
-
    8,R,D
    1,R,J,G
    5,R,K,G
    1,K
-   2,R,K
-   7,R
+   1,R,K
+   5,R
+   1,R,J
+   2,R
    1,R,J,G
    1,R,K,G
-  11,R
-  10,R,J
-   4,R
+   9,R
+   9,R,J
+   5,R
+   1,R,J
+   1,R
    1,R,J,G
   13,R
    1,R,J
@@ -193,32 +195,44 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/XandouilleBirthday
 #lvl_4
    7,R
    8,R,J
-   4,R,K
-  20,R,D
-   3,R
-   1,R,J,G
-   1,R,K,G
-   3,R
-   1,R,J,G
-  11,R
-
+   3,R,K
+   5,R
    1,R,J
-  14,R
-   1,L
-   1,L,J
-   9,L
-   1
-   1,L
-  10,R
-   5,R,G
-   4,R,J,G
+  18,R
+   1,R,J,G
    1,R,K,G
-   2,R,J,G
-   2,R,K,G
-   7,R
-  10,R,D,J
+   5,R
+   1,R,J,G
+   9,R
+   1,R,J
+   9,R
+   9
+   1,J,G
+   1,R,J
+   1
    1,R
-  24,R,J
-   5,R,K
- 141,R,J
-ChapterTime: 0:26.843(1579)
+   1
+   1,R
+   2
+   1,R
+   1,L
+   1,R,J
+  15,R,D
+   2,R
+   3,R,D
+   5,R,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   7,R
+   7,R,J
+   5,R
+   2,R,J
+  13,R
+   7,R,J
+  67,R,D
+  68,R,G
+
+ChapterTime: 0:26.775(1575)
