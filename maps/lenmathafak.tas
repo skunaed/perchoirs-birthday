@@ -1,7 +1,7 @@
 # PerchoirsBirthday
 # https://gamebanana.com/mods/550424
 
-RecordCount: 623
+RecordCount: 852
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/LenmathafakBirthday
    1
@@ -56,18 +56,18 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/LenmathafakBirthday
   15,R,U,X
    1,R,G
   21,R
-  15,R,D,X
-  14,R,D,C
+  18,R,D,X
+  11,R,D,C
    1,R,J
-  10,R,U,X
-  51,L,G
-  16,L,Z
+   3,R
+  13,R,U,X
+  42,L,G
+  20,L,Z
   14,L,U,C
-   3,L
   28,R,G
   22,J
   14,R,Z
-   3,R,J
+   2,R,J
   10,R,D,X
   66,R,G
    1,L
@@ -131,4 +131,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/LenmathafakBirthday
   11,L
  134
 
-ChapterTime: 0:22.610(1330)
+ChapterTime: 0:22.559(1327)
