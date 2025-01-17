@@ -1,4 +1,4 @@
-RecordCount: 627
+RecordCount: 824
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/KazzersBirthday
    1
@@ -29,49 +29,62 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/KazzersBirthday
    8
    3,L
   15,U,X
-   5,R,J,G
-   7,R
-   7,R,J
-  10,R,C
-   5,J
-  27,R,U,X
-   7,J
-   4,R,Z
-  10,R,J
+   7,R,J,G
+   4,R,K,G
    3,R
+   1,K,G
+   5,R
+   1,L
+   1,L,N
+   4,L
+   4,R,Z
+   1,R,J
+   5
+   6,J
+  26,R,U,X
+   7,R,J
+   4,R,Z
+   9,R,J
+   4,R
    1
-   1,R
   14,R,Z
   11,R,J
   10,U,Z
-  26,R,J
-  21,L,U,X
+  22,R,J
+   4,J
+  20,L,U,X
    4,L,J
-   5,L,K
+   6,L,K
    1,L
-  21
+  20
   15,R,X
   19,R,C
    4,R,J
-  20,R,K
+   8,R,K
+   5,R
+   2,R,J
+   5,R
   22,R,X
    4,R,J
    1,R,K
-  12,R,U,X
-   1,R,J,G
-   9,R
-   1,R,J
-  14,R,D,X
+  11,R,U,X
+   2,R,J,G
+   7,R
    2,R,J
+   3,R
+   4,R,K,G
+   3,R
+  12,R,D,X
   40
 
 #lvl_3
    3,R,J
-  14,R,D,X
-  16,R,J
-  21,U,X
-   9,R
-  21,R,X
+   1,R,K,G
+  12,R,J,G
+   8,J
+  18,U,X
+   8,R
+  18,R,X
    4,R,J
    3,R,K
    7,K
@@ -160,4 +173,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/KazzersBirthday
   14,R,U,X
  135,R,D
 
-ChapterTime: 0:24.616(1448)
+ChapterTime: 0:24.565(1445)
