@@ -1,4 +1,4 @@
-RecordCount: 461
+RecordCount: 470
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ArioksuBirthday
    1
@@ -49,28 +49,24 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ArioksuBirthday
   15,U,X
   16,R,C
    4,R,J
-
-   3,R,K
-   8,R
+   1,R,K
+  11,R
   14,R,D,X
    1,R,J
-
   14,R,U,X
-  44,R,G
-  10,R,D,G
-   9,R,G
-   4,R,D,G
+  43,R,G
    1,L
+  18,R
    1,R,J
   14,R,D,X
    1,R,J
+   5,R,D,X
   40
 
 #lvl_3
-   1,R,J
-  14,R,D,X
-   1,R,J
-   7,R,D,X
+   9,R,D,X
+   2,R,J
+   8,R,D,X
   28,R,G
    4,L,G
   20,L,X,G
@@ -78,7 +74,6 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ArioksuBirthday
   28,U,X,G
    6,R,G
    4,R,D
-
    1,J,G
    1,L,J
    1,R,K,G
@@ -96,7 +91,6 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ArioksuBirthday
   20,R,X,G
    4,L,G
   10,R,Z
-
   23,R,J,G
    4,R,G
    1,L
@@ -130,4 +124,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ArioksuBirthday
    3,R
  147,R,X
 
-ChapterTime: 0:20.281(1193)
+ChapterTime: 0:20.213(1189)
