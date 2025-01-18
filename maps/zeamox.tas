@@ -1,4 +1,4 @@
-RecordCount: 705
+RecordCount: 731
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZeamoxBirthday
    1
@@ -116,17 +116,16 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZeamoxBirthday
   40
 
 #lvl_4
-  30,R,J
-  12,U,X
-  14,R,J
-  10,L,Z
-   1,R,J
-   4,R
-  17,R,D,X
-  18,R,J
-  13,R,U,X
-   1,L
-   2,J,G
+   4,R,J
+  15,R
+  14,R,U,X
+   1,L,J,G
+   9,R,J
+   7,R
+  21,R,J
+  14,R,U,X
+   1,L,J,G
+   1,R
   15,R,U,Z
   13,R,J
   24,R,U,X
@@ -144,4 +143,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZeamoxBirthday
  116,U,C
   60,R,X
 
-ChapterTime: 0:25.211(1483)
+ChapterTime: 0:24.769(1457)
