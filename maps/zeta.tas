@@ -1,4 +1,4 @@
-RecordCount: 319
+RecordCount: 351
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ZetaBirthday
    1
@@ -88,11 +88,9 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ZetaBirthday
    4,K
    3,J
   10,R,U,X
-   4,R,J
-
-  22,R,K
-  14,U,X
-   3,L,J
+   8,R,J
+  18,R,K
+  15,U,X
  135
 
-ChapterTime: 0:13.515(795)
+ChapterTime: 0:13.481(793)
