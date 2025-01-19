@@ -1,4 +1,4 @@
-RecordCount: 3575
+RecordCount: 3683
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    1
@@ -240,7 +240,6 @@ EndRepeat
   20,R,K
   14,R,U,X
   91,R,G
-
    7,R,D,G
    1,L
   20,R,D
@@ -267,9 +266,8 @@ EndRepeat
    5,R
    1,R,J,G
    5,R
-
   30
-  13
+   7
   15,D,X
    1,J
    9,R,J
@@ -338,7 +336,6 @@ EndRepeat
   20,R
    4,R,J
   11,R
-
   27,R,G
    1,R,J,G
    1,R,K,G
@@ -1046,4 +1043,4 @@ endrepeat
   17,U,X
  135
 
-ChapterTime: 3:33.095(12535)
+ChapterTime: 3:32.993(12529)
