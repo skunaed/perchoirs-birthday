@@ -1,4 +1,4 @@
-RecordCount: 3683
+RecordCount: 3888
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    1
@@ -79,7 +79,6 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
   12,D
    4,R,D
   10,R,Z
-**
    1,R,J
    1,R,K,G
    5,R
@@ -664,11 +663,12 @@ endstunpause
   19,R,D,X
    5,R,J
    4,R
-  21,R,J
-
-   2,R,D
-   8,R
+  10,R,J
+  15,R,D
+   1
+   4,R
    8,U,X
+
   15,R,J
   33,R,D
   15,R,U,Z
@@ -682,10 +682,11 @@ endstunpause
   14,R,Z
    1,R,J
   16,R,D,X
-   7,R,J
-  25,L,J
-  44,L,D,X
 
+   4,R,J
+   7,R,D,J,X
+  19,L,J
+  46,L,D,X
    1,R
   15,U,X
   14,R,Z
@@ -752,7 +753,7 @@ endstunpause
    8,R,J
    4,R
   13,R,G
-  12,R,J,G
+  11,R,J,G
    1,R
   14,R,D,X
   30
@@ -773,7 +774,7 @@ endstunpause
   14,R,U,X
   17,L
  594
-  21
+  19
   16,J
   15,U,X
   10,R
@@ -915,33 +916,30 @@ endstunpause
   25,R,U,X
    7,R,C
   21,R,G
-   4,L,G
-   7,R,Z
-  17,R,J,G
-   7,R,G
-   7,R
-  14,U,X
-  13,G
+   4,R,J,G
+   7,R,K,G
+   8,R,G
+  12,R,J,G
+   4,R
+   3,R,D
+  15,U,X
+  12,G
   14,L
    1
-   9,U,X
+  15,U,X
   11,G
-   8
-   2,G
-   2
-   6
-   2,R
-   3,D
-  11,D
-  30,D
-   2,D
+   4
+   8,R
+   2,R,D
+   6,D
+   2,R,D
+  37,D
   15,L,X
-   0,R
   14,R,D,C
   13,R,J
   10,R
    4,R,X
-  24,R,G
+  22,R,G
    4,R,J,G
   10,R,K,G
   11,R,G
@@ -949,9 +947,9 @@ endstunpause
   18,R,X
   13,R,U,C
   17,R,G
-  22,R
+  19,R
   14,R,D,X
-   8,R,J
+  10,R,J
    8,U,X
   24,R,G
    7,R
@@ -960,16 +958,17 @@ endstunpause
   24,R,J,G
   18,R,X
   17,R,U,C
-   6,R,X
-  22,R,G
+   7,R,X
+  20,R,G
    4,R,J,G
   10,R,K,G
   19,R,G
    1,R
-  33,R
+  34,R
   15,R,U,X
    5,R,D
-  51,R,D,G
+
+  50,R,D,G
    6
   14,L,D,X
    1,R,J
@@ -1043,4 +1042,4 @@ endrepeat
   17,U,X
  135
 
-ChapterTime: 3:32.993(12529)
+ChapterTime: 3:32.721(12513)
