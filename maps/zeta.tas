@@ -7,7 +7,9 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ZetaBirthday
  190
 
 #lvl_1
+#spinner cycle
    1
+# 
    1,L,N
    1,L,J
    2,L
