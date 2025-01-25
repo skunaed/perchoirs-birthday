@@ -17,19 +17,7 @@ Read,maps/nathan,Start
   32
 
 
-Read,fall lobby/1-3,Start
-Read,EnterLevel,Start
-Read,maps/alympie,Start
-   1,O
-  32
-
-Read,fall lobby/3-4,Start
-Read,EnterLevel,Start
-Read,maps/ata,Start
-   1,O
-  32
-
-Read,fall lobby/4-5,Start
+Read,fall lobby/1-5,Start
 Read,EnterLevel,Start
 Read,maps/lychee,Start
    1,O
@@ -107,7 +95,19 @@ Read,maps/kol_oss,Start
    1,O
   32
 
-Read,fall lobby/17-18,Start
+Read,fall lobby/17-4,Start
+Read,EnterLevel,Start
+Read,maps/ata,Start
+   1,O
+  32
+
+Read,fall lobby/4-3,Start
+Read,EnterLevel,Start
+Read,maps/alympie,Start
+   1,O
+  32
+
+Read,fall lobby/3-18,Start
 Read,EnterHeartside,Start
 Read,maps/autumnal_ascension,Start
   61
