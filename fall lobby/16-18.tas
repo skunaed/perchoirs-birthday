@@ -1,0 +1,118 @@
+console hearts 13
+console load PerchoirsBirthday/0-Lobbies/1-PerchoirsBirthday_OctDec 1544 -272
+console hearts 14
+   1
+
+#Start
+  36
+
+#lvl_lobby_main
+  10,R,Z
+   1,L,J
+   5,L
+  11,L,U,X
+   1,L,J,G
+   1,L,K,G
+   1,L
+   1,L,J,G
+   3,L,K,G
+   7,L
+   1
+   7,L,J
+   2,L
+  19,L,D,X
+   2,L,J
+  12,L,K,G
+  15,L,Z
+   1,L,J
+   1,L,K,G
+   1,L
+   1,L,J,G
+   9,L,K,G
+  18,L,D,X
+   8,L,J
+  21,L,D,X
+   2,L,J
+  13,L,U,Z
+   5,L,J,G
+ 123,U,C
+   1,S
+   1,D,J
+  69,O
+   6,R
+   1,R,J
+   1,J
+   1,R,K,G
+   3,R,J,G
+   8,R
+   1,S
+   1,D,J
+  34
+   5,R
+   7,R,J
+   5,R
+   1,R,K,G
+   1,R,J,G
+  11,R
+   3,R,J
+   5,R
+   1,R,J
+   5,R,D
+   4,D
+   6,R,D
+   2,D
+   2,R,D
+   1,R,J
+   1,R,K,G
+   4,R,J,G
+   4,R
+   1,R,J,G
+   2,R
+   3,R,J
+   1,S
+   1,D,J
+  69,O
+   6,R
+   1,R,J
+   1,J
+   1,R,K,G
+   3,R,J,G
+   9,R
+   5,R
+   7,R,J
+   3,R
+   2
+   1,R,K,G
+   1,R,J,G
+  11,R
+   5,R,J
+   6,R,D
+   1,D
+  15,R,D
+   2,D
+   1,R,D
+
+   1,R,J
+   1,R,K,G
+   4,R,J,G
+
+   5,R
+   1,R,J,G
+   2,R
+   2,R,J
+   3,R
+   1,R,J,G
+  14,R
+   4,R,J
+   1,R,K,G
+   7,R
+   3,R,J,G
+   9,R
+   4,R,J
+   3,R,K,G
+  10,R
+   6,R,J
+  14,R
+   1,N
+
+#0:12.359(727)

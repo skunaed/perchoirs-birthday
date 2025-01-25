@@ -9,8 +9,13 @@ console load PerchoirsBirthday/0-Lobbies/1-PerchoirsBirthday_OctDec 1336 248
    1,R,J
   12,R
   39,R,D
-  39,L,D
-   4,L
+   1,L
+  30,L,D
+   7,L
+   1,L,D
+   1,L
+   4,L,Z
+   1,L,J
    1,N
 
-#0:01.649(97)
+#0:01.632(96)
