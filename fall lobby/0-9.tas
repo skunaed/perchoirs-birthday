@@ -7,9 +7,10 @@ console load PerchoirsBirthday/0-Lobbies/1-PerchoirsBirthday_OctDec
    1,L,J
   15,L,D
    8,R,D
-   2,R
-  25,R,D
-  32,L,D
+   5,R
+  15,R,D
+  21,L,D
+  20,D
    1,N
 
-#0:01.445(85)
+#0:01.479(87)
