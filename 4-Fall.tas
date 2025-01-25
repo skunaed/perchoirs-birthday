@@ -1,5 +1,6 @@
 Unsafe
 
+console clrsav
 console load PerchoirsBirthday/0-Lobbies/1-PerchoirsBirthday_OctDec
    1
 
@@ -15,7 +16,6 @@ Read,EnterLevel,Start
 Read,maps/nathan,Start
    1,O
   32
-
 
 Read,fall lobby/1-5,Start
 Read,EnterLevel,Start
@@ -108,9 +108,9 @@ Read,maps/alympie,Start
   32
 
 Read,fall lobby/3-18,Start
-Read,EnterHeartside,Start
+Read,EnterLevel,Start
 Read,maps/autumnal_ascension,Start
   61
    1,O
 
-FileTime:
+FileTime: 13:38.839(48167)
