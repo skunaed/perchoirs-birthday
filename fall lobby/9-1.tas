@@ -1,8 +1,10 @@
 console load PerchoirsBirthday/0-Lobbies/1-PerchoirsBirthday_OctDec 96 440
    1
 
-#lvl_lobby_main
+#Start
   36
+
+#lvl_lobby_main
    1,L,J
    1,J
    1,K
@@ -12,19 +14,16 @@ console load PerchoirsBirthday/0-Lobbies/1-PerchoirsBirthday_OctDec 96 440
    9,L
   12,L,J
   15,U,X
-   1,L,J,G
-   2
-   2,L,J,G
+   9,L,J,G
    7,L
    6,L,J
   10,L,X
-   4,L,J
-   2,L
+   6,L,J
   15,U,X
-  12,L,J,G
+   7,L,J,G
    7,L
-  11,J
-   1
+  10,J
+   2,L,J
   14,L,U,X
   10,L,J,G
    4,L
@@ -32,4 +31,4 @@ console load PerchoirsBirthday/0-Lobbies/1-PerchoirsBirthday_OctDec 96 440
    5,L
    1,N
 
-#0:02.754(162)
+#0:02.737(161)

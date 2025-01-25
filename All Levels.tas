@@ -1,109 +1,109 @@
 Read,StartFullCollabFile
 
-Read,lobby/0-1,lvl_lobby_main
+Read,lobby/0-1,Start
 Read,EnterLevel,Start
 Read,maps/nathan,Start
    1,O
   32
 
-Read,lobby/1-2,lvl_lobby_main
+Read,lobby/1-2,Start
 Read,EnterLevel,Start
 Read,maps/maestro,Start
    1,O
   32
 
 
-Read,lobby/2-3,lvl_lobby_main
+Read,lobby/2-3,Start
 Read,EnterLevel,Start
 Read,maps/alympie,Start
    1,O
   32
 
-Read,lobby/3-4,lvl_lobby_main
+Read,lobby/3-4,Start
 Read,EnterLevel,Start
 Read,maps/ata,Start
    1,O
   32
 
-Read,lobby/4-5,lvl_lobby_main
+Read,lobby/4-5,Start
 Read,EnterLevel,Start
 Read,maps/lychee,Start
    1,O
   32
 
-Read,lobby/5-6,lvl_lobby_main
+Read,lobby/5-6,Start
 Read,EnterLevel,Start
 Read,maps/arioksu,Start
    1,O
   32
 
-Read,lobby/6-7,lvl_lobby_main
+Read,lobby/6-7,Start
 Read,EnterLevel,Start
 Read,maps/geflut,Start
    1,O
   32
 
-Read,lobby/7-8,lvl_lobby_main
+Read,lobby/7-8,Start
 Read,EnterLevel,Start
 Read,maps/blackphey,Start
    1,O
   32
 
-Read,lobby/8-9,lvl_lobby_main
+Read,lobby/8-9,Start
 Read,EnterLevel,Start
 Read,maps/nimgol,Start
    1,O
   32
 
-Read,lobby/9-10,lvl_lobby_main
+Read,lobby/9-10,Start
 Read,EnterLevel,Start
 Read,maps/brase,Start
    1,O
   32
 
-Read,lobby/10-11,lvl_lobby_main
+Read,lobby/10-11,Start
 Read,EnterLevel,Start
 Read,maps/zeamox,Start
    1,O
   32
 
-Read,lobby/11-12,lvl_lobby_main
+Read,lobby/11-12,Start
 Read,EnterLevel,Start
 Read,maps/typorium,Start
    1,O
   32
 
-Read,lobby/12-13,lvl_lobby_main
+Read,lobby/12-13,Start
 Read,EnterLevel,Start
 Read,maps/lenmathafak,Start
    1,O
   32
 
-Read,lobby/13-14,lvl_lobby_main
+Read,lobby/13-14,Start
 Read,EnterLevel,Start
 Read,maps/kazzers,Start
    1,O
   32
 
-Read,lobby/14-15,lvl_lobby_main
+Read,lobby/14-15,Start
 Read,EnterLevel,Start
 Read,maps/renlei,Start
    1,O
   32
 
-Read,lobby/15-16,lvl_lobby_main
+Read,lobby/15-16,Start
 Read,EnterLevel,Start
 Read,maps/skyfoz,Start
    1,O
   32
 
-Read,lobby/16-17,lvl_lobby_main
+Read,lobby/16-17,Start
 Read,EnterLevel,Start
 Read,maps/kol_oss,Start
    1,O
   32
 
-Read,lobby/17-18,lvl_lobby_main
+Read,lobby/17-18,Start
 Read,EnterHeartside,Start
 Read,maps/autumnal_ascension,Start
   61
