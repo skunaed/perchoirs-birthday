@@ -1,0 +1,116 @@
+Unsafe
+
+console load PerchoirsBirthday/0-Lobbies/1-PerchoirsBirthday_OctDec
+   1
+
+#Start
+Read,fall lobby/0-2,Start
+Read,EnterLevel,Start
+Read,maps/maestro,Start
+   1,O
+  32
+
+Read,fall lobby/2-1,Start
+Read,EnterLevel,Start
+Read,maps/nathan,Start
+   1,O
+  32
+
+
+Read,fall lobby/1-3,Start
+Read,EnterLevel,Start
+Read,maps/alympie,Start
+   1,O
+  32
+
+Read,fall lobby/3-4,Start
+Read,EnterLevel,Start
+Read,maps/ata,Start
+   1,O
+  32
+
+Read,fall lobby/4-5,Start
+Read,EnterLevel,Start
+Read,maps/lychee,Start
+   1,O
+  32
+
+Read,fall lobby/5-6,Start
+Read,EnterLevel,Start
+Read,maps/arioksu,Start
+   1,O
+  32
+
+Read,fall lobby/6-7,Start
+Read,EnterPostcard,Start
+Read,maps/geflut,Start
+   1,O
+  32
+
+Read,fall lobby/7-8,Start
+Read,EnterLevel,Start
+Read,maps/blackphey,Start
+   1,O
+  32
+
+Read,fall lobby/8-9,Start
+Read,EnterLevel,Start
+Read,maps/nimgol,Start
+   1,O
+  32
+
+Read,fall lobby/9-10,Start
+Read,EnterLevel,Start
+Read,maps/brase,Start
+   1,O
+  32
+
+Read,fall lobby/10-11,Start
+Read,EnterLevel,Start
+Read,maps/zeamox,Start
+   1,O
+  32
+
+Read,fall lobby/11-12,Start
+Read,EnterLevel,Start
+Read,maps/typorium,Start
+   1,O
+  32
+
+Read,fall lobby/12-13,Start
+Read,EnterLevel,Start
+Read,maps/lenmathafak,Start
+   1,O
+  32
+
+Read,fall lobby/13-14,Start
+Read,EnterLevel,Start
+Read,maps/kazzers,Start
+   1,O
+  32
+
+Read,fall lobby/14-15,Start
+Read,EnterLevel,Start
+Read,maps/renlei,Start
+   1,O
+  32
+
+Read,fall lobby/15-16,Start
+Read,EnterLevel,Start
+Read,maps/skyfoz,Start
+   1,O
+  32
+
+Read,fall lobby/16-17,Start
+Read,EnterLevel,Start
+Read,maps/kol_oss,Start
+   1,O
+  32
+
+Read,fall lobby/17-18,Start
+Read,EnterHeartside,Start
+Read,maps/autumnal_ascension,Start
+  61
+   1,O
+
+FileTime:
