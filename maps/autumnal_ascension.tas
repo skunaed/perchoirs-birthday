@@ -1,4 +1,4 @@
-RecordCount: 3849
+RecordCount: 3986
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    1
@@ -7,7 +7,7 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
  190
 
 #spinner cycle
-   2
+   1
 
 #lvl_00-LOBBY_1-00
    4,R
@@ -220,29 +220,31 @@ EndRepeat
   40
 
 #lvl_ata
-   3,R,D,X
+   5,R,D,X
    1,R,J
-   7,R
-   3,R,J
-  15,R,Z
-   5,R
-   2,R,J
+   6,R
+   1,N
+   3,J
+  11,R,X
+   1,J
+   3
+   6,R
+   1
   11,L,X
-  28,R,J
-   1,R
-   3,R,J
-  12,R,D
-   1,R
+  12,R,J
+  14,R
+   6,R,J
+  10,R,D
+   2,D
+   1
   14,R,X
    2,R,J
    8,R
    7,R,J
    3,J
-   1,R,J
   20,R,K
   14,R,U,X
   91,R,G
-
    7,R,D,G
    1,L
   20,R,D
@@ -298,11 +300,10 @@ EndRepeat
   40
 
 #lvl_TRANSITION_CP2
-   9,R
+   3,R,J
+  16,R
    1,R,J
-  14,R,D,X
-   1,R,J
- 290,R,D,X
+ 289,R,D,X
    4,R,J
    1,R,K
   11,R,X
@@ -1043,4 +1044,4 @@ endrepeat
   17,U,X
  135
 
-ChapterTime: 3:32.041(12473)
+ChapterTime: 3:31.990(12470)
