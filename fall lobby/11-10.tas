@@ -1,0 +1,22 @@
+console load PerchoirsBirthday/0-Lobbies/1-PerchoirsBirthday_OctDec 928 336
+   1
+
+#Start
+  36
+
+#lvl_lobby_main
+   5,R,Z
+   1,L,J
+  46,L,D
+  19,L
+   1,L,D
+   6,L,Z
+   1,L,J
+   2,L
+   5,L,J
+  11,L
+   3,L,J
+  15,L,D,X
+   1,N
+
+#0:01.819(107)
