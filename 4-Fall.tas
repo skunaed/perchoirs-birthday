@@ -11,13 +11,13 @@ Read,maps/maestro,Start
    1,O
   32
 
-Read,fall lobby/2-1,Start
+Read,fall lobby/2-1warp,Start
 Read,EnterLevel,Start
 Read,maps/nathan,Start
    1,O
   32
 
-Read,fall lobby/1-5,Start
+Read,fall lobby/1-5warp,Start
 Read,EnterLevel,Start
 Read,maps/lychee,Start
    1,O
