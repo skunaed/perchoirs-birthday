@@ -1,7 +1,4 @@
-# PerchoirsBirthday
-# https://gamebanana.com/mods/550424
-
-RecordCount: 545
+RecordCount: 559
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ElbabaBirthday
    1
@@ -201,7 +198,7 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ElbabaBirthday
    1,L,J
   14,L
    1,L,J
-  18,L,D
+  18,L
    9,L,J
    5,L
    1,L,J
@@ -211,7 +208,7 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ElbabaBirthday
    1,L,J,G
    1,L,K,G
    8,L
-   2,L,J
+   2,L,K
    8,L,J
    3,J
    1,L,J
@@ -248,9 +245,10 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ElbabaBirthday
    1,L,K,G
   10,L
    7,L,J
-   9,L
+   8,L
+   1,L,K
    1,J,G
-  10,L
+   9,L
 
    6,R
    4,R,J
@@ -276,6 +274,7 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ElbabaBirthday
    1,L,J
    1,L,K,G
    7,L,J,G
- 145,L,K,G
+  10,L,K,G
+ 135,L,D
 
-ChapterTime: 0:31.433(1849)
+ChapterTime: 0:31.416(1848)
