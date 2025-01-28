@@ -1,0 +1,151 @@
+# PerchoirsBirthday
+# https://gamebanana.com/mods/550424
+
+RecordCount: 371
+
+console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/TchouBirthday
+   1
+
+#Start
+ 190
+
+#lvl_1
+  14,R,Z
+   1,R,J
+  13,R,U,X
+   6,R,J,G
+  16,D,C
+  21,R,X
+  12,R
+   8,L,U,X
+   1,J
+
+   6,L,J
+   1,L
+  18,L,J
+   1,L,G
+  10,L,D,G
+   5,L,G
+   1,J,G
+   1,R,J
+   4,L,K,G
+   1,L,J,G
+   6,R,D,X
+   2,R,J,G
+   5,R
+
+   2,R,J
+   9,R
+   8,R,D,J
+  40
+
+#lvl_2
+  16,R,J
+   5,U,X
+  18,R,J
+  13,R,U,X
+   7,L
+  10,R,D,C
+   5,L,J
+  19,L,X
+
+  15,D,C
+  10,L,D,X
+   1,R,J
+   4,R
+  15,R,D,X
+  10,R
+  25,U,C
+  15,R,D,X
+  10,R,D
+  10,L,Z
+   8,R,J
+  10,R
+
+  17,R,U,X
+  18,U,Z
+  20,R,X
+  15,U,C
+   5,L
+  29,L,J
+   3,J
+  16,R,K
+   4,J
+  40
+
+#lvl_3
+  13
+  21,U,X
+  11,R,U,C
+   1,R,J,G
+   1,R,K,G
+   4,K
+
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   1,J
+  21,R,J
+   4,J
+
+  11,R,D,X
+   4,L,J
+   8,L,U,X
+  37,R,J
+  18,R,X
+  15,U,C
+   5,R
+   8,L,X
+   1,R,J,G
+   6,R,J
+  18,U,X
+  22,L,U,C
+  13,L,X
+   1,L,J,G
+   4,L
+
+   6,L,D,C
+   1,L,J
+   7
+  14,R,J
+  14,R,Z
+   1,R,J
+   2,R
+  16,R,D,X
+   1,R,J
+  10,R,U,X
+  30,L,J
+  18,U,X
+  14,L,Z
+  19,L,J
+   3,L
+
+  13,R,D,X
+   1,R,J
+   1,R
+  24,R,D,X
+  12,R,J
+  13,R,U,X
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   6,R
+  49
+   6,R
+  45,D,X
+   7
+   3,R
+  19
+   9,R
+  50
+   7,L
+  32
+   3,R
+   1,L
+  11,J
+   4,K,G
+  17,J,G
+ 150,U,X
+
+ChapterTime: 0:22.321(1313)
