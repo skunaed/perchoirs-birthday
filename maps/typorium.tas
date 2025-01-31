@@ -1,4 +1,4 @@
-RecordCount: 720
+RecordCount: 812
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/TyporiumBirthday
    1
@@ -23,7 +23,6 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/TyporiumBirthday
   23,R,D,G
    1,R,J,G
   14,R,G
-
   21,R,J,G
    9,R
   12,U,X
@@ -40,40 +39,51 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/TyporiumBirthday
    8,U,X
    9,L,J
   17,L,J,G
-  62,R,D,G
-  57,R,G
-   1,R,D,G
-   1,L
-  14,R,D
-   1,R,G
-   8,R,J
+   1,D,G
+  43,R,D,G
+  55,R,J,G
+   1,D
+  15,U,X,G
+  17,R,G
+   1,R
+  10,D
+  10,R,D
+
+   9
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  11,R
   40
 
 #lvl_a-02
-   1,S
-   1,D,J
-  69,O
-   5,L,D,X
+
+   2,R
+  13,R,Z
    1,R,J
    7,R
-  17,R,J,G
-   1,R,K
+  16,R,J,G
+   2,R,K
    3,R
    1,L
   18,R
   25,R,D,X
-   2,R,J
-  10,J
-  13,U,X
+   1,R,J
+   1,J
+
+   4,J
+   6
+  14,U,X
    5,J
   12,R,J
    1,K
-  23,R,K
-   1,K
+  22,R,K
+   2,K
    1,R,J,G
    7,R,K,G
-  32,R,D
-  22,D
+  33,R,D
+  21,D
    2
    1,R
   22,R,U,X
@@ -156,4 +166,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/TyporiumBirthday
   13,R,J
  135
 
-ChapterTime: 0:29.767(1751)
+ChapterTime: 0:29.648(1744)
