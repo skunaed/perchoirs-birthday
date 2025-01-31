@@ -1,4 +1,4 @@
-RecordCount: 812
+RecordCount: 869
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/TyporiumBirthday
    1
@@ -47,20 +47,19 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/TyporiumBirthday
   17,R,G
    1,R
   10,D
-  10,R,D
-
-   9
+   8,R,D
+  11
   14,R
    1,R,J
-  14,R
+   1,R,K,G
+  15,R
    1,R,J
-  11,R
+   5,R
   40
 
 #lvl_a-02
-
-   2,R
-  13,R,Z
+   4,R
+  14,R,D,X
    1,R,J
    7,R
   16,R,J,G
@@ -69,23 +68,21 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/TyporiumBirthday
    1,L
   18,R
   25,R,D,X
-   1,R,J
-   1,J
-
-   4,J
-   6
+   7,R,J
+   4,R
   14,U,X
    5,J
   12,R,J
    1,K
   22,R,K
-   2,K
+   2,R,K
    1,R,J,G
-   7,R,K,G
-  33,R,D
-  21,D
-   2
+   6,R,K,G
+  32,R,D
+   3
+  19,D
    1,R
+   2
   22,R,U,X
   24,R,C
   30,R,X
@@ -166,4 +163,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/TyporiumBirthday
   13,R,J
  135
 
-ChapterTime: 0:29.648(1744)
+ChapterTime: 0:29.597(1741)
