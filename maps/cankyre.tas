@@ -1,7 +1,7 @@
 # PerchoirsBirthday
 # https://gamebanana.com/mods/550424
 
-RecordCount: 354
+RecordCount: 416
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CankyreBirthday
    1
@@ -14,19 +14,19 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CankyreBirthday
    4,R,J
    4,R
   15,R,D,X
-  42,R,J
-  11,R,D
-   2,R,G
+  40,R,J
+  13,R,D
+   1,R,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   2,J
-   5
+   3,J
+   2
   15,L,D,X
    3,L,D
-   3,L,D
+   6,L,D
   10,L,J
-  40,L,D
+  39,L,D
    2,G
    1,J,G
    1,L,K,G
@@ -73,16 +73,16 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CankyreBirthday
    8,J
   15,R,D,X
    8,R
-
   18,R,D
    4,J
   32,D
-  19,R,U,X
+  12,R,U,X
    1,J,G
    1,R,K,G
    1,R,J,G
-   4,L
-  50,L,D,X
+   1,R,K,G
+   8,L
+  44,L,D,X
 
 #lvl_3
    8,L
@@ -137,4 +137,5 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CankyreBirthday
    9,R
    8,R,J
  151,R,D
-ChapterTime: 0:20.672(1216)
+
+ChapterTime: 0:20.519(1207)
