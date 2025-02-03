@@ -1,0 +1,231 @@
+# PerchoirsBirthday
+# https://gamebanana.com/mods/550424
+
+RecordCount: 525
+
+console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/LudboyBirthday
+   1
+
+#Start
+ 190
+
+#lvl_1
+   4,L,X
+   2,R,J
+   8,R
+   6,R,J
+   7
+   6,L,J
+   7
+   1,L,J
+  11,R,J
+  10,R,Z
+   3,R,J
+   2,R
+  17,R,D,X
+  11,R,J
+   4,R
+   5,R,X
+   2,R,J
+   8,R
+   1,R,J
+   1,R
+   6,R,J
+   1,R
+  12,J
+  10,R,X
+  19,L,J
+  16,R,U,X
+   4,R,J
+  11,R,K
+
+  10,R,D,X
+   1,R,J
+  12,R
+  19,R,J
+  22,R,U,Z
+   4,L,X
+   8,L,J
+   4,R
+   1,L
+   5,R
+   1,R,J
+  21,J
+  29,R,U,X
+
+   4,R,J
+   1,R,K
+  16,K
+   9,R,D,X
+   1,J
+   7
+  15,R,J
+  19,L,U,Z
+   8,J
+  18,L,K
+  24,R,U,X
+   5,R,Z
+   1,R,J
+   8,R
+   1,R,J
+   2,R
+  11,L,D,X
+
+   7,L,J
+   8,L,K
+  17,U,X
+   9,R,U,G
+   8,J,G
+  28,R,U,G
+
+
+  10,R,D,X
+   4,R,J
+   8,K
+  15,U,X
+  12,R
+
+  15,R,X
+  10,R,D,C
+   4,R,J
+   5,R,K
+   4,R
+  15,U,X
+  30,R,U,G
+   1,R,J
+   1,R,K,G
+   5,R,X
+   2,R,J
+   7,R
+   5,R,D,X
+   1,R,J
+
+   7,R
+   8,R,J
+  15,R,D,X
+  11,R,J
+   1,R
+   8,R,J
+  16,R,D,X
+
+   6,R,J
+   7,R
+   8,R,J
+  15,R,D,X
+   3,R,J
+   9,R
+   6,R,J
+   7,R
+  14,J
+  10,R,D,X
+   4,R,J
+  12,R,K
+  16,R,X
+   8,L,J
+  14,L,K
+  18,R,U,X
+
+   8,R,J
+  12,K
+  16,U,X
+   9,L
+   7,L,J
+  10,L,X
+  24,R,J
+  16,L,U,X
+
+   4,L,J
+  12,L,K
+  12,L,X
+
+   4,R,J
+  10,R,K
+  19,R,X
+   4,R,J
+   5,R,K
+   7,R
+  14,J
+
+  10,R,D,X
+   8,L,J
+  30,L,K
+  20,R,U,Z
+   4,L,J
+  11,L,K
+   2,L
+  15,U,X
+  14,L
+   2,L,J
+  12,L,Z
+  50,L,J
+  31,L,U,X
+   4,L,J
+  12,L,D,X
+   8,R,J
+
+  18,R,K
+  15,U,X
+  20,L,U,G
+   3,L,G
+  12,J
+  10,L,X
+   8,R,J
+  11,R,K
+   1,R
+   8,R,K
+  17,L,U,Z
+   8,R,J
+  12,R,K
+  11,L,X
+   4,R,J
+   7,R,K
+   8,R
+  33,R,U,X
+   5,R,Z
+   1,R,J
+   7,R
+
+  21,R,J
+  24,U,X
+   8,R,D,C
+   1,R,J
+   7,R
+  11,R,J
+   7,R
+   1
+  11,L,J
+   2,L
+
+  24,R,U,X
+   6,R,J
+   7,R
+  11,R,J
+   7,R
+  10,R,J
+   1,R
+   8,R,J
+   3,K
+  10,R,X
+   1,L,J
+   5,L
+  24,R,U,X
+  11,R,J
+   6,R,Z
+   1,R,J
+
+   6,R
+   6,R,J
+   7,R
+  11,R,J
+   8,R
+   2,R,J
+   9,R
+   3,R,J
+   5,R
+   2,R,J
+   6,R
+  20,R,J
+ 337,R,D
+ 152,U,X
+
+ChapterTime: 0:36.533(2149)
