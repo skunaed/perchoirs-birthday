@@ -1,7 +1,4 @@
-# PerchoirsBirthday
-# https://gamebanana.com/mods/550424
-
-RecordCount: 525
+RecordCount: 616
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/LudboyBirthday
    1
@@ -110,51 +107,39 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/LudboyBirthday
 
    6,R,J
    7,R
-   8,R,J
-  15,R,D,X
-   3,R,J
-   9,R
-   6,R,J
-   7,R
-  14,J
-  10,R,D,X
-   4,R,J
-  12,R,K
-  16,R,X
-   8,L,J
-  14,L,K
-  18,R,U,X
-
-   8,R,J
-  12,K
-  16,U,X
-   9,L
+  30,R,J
+  20,R,X
+   4,L,J
+   6,L,K
+  19,R,U,X
+   4,L,J
+  17,L,K
+  27,U,X
+  10,R,D,C
+   7,R,J
+  15,U,X
+  11,L,G
+  11,L,J,G
+   7,L
    7,L,J
   10,L,X
-  24,R,J
-  16,L,U,X
-
-   4,L,J
-  12,L,K
-  12,L,X
-
-   4,R,J
-  10,R,K
-  19,R,X
-   4,R,J
-   5,R,K
-   7,R
-  14,J
-
-  10,R,D,X
+  30,R,J
+  19,L,U,X
+   4,R,K
+   5,R,J
+  12,R
+  21,R,U,Z
+   8,R,J
+  15,R,K
+  15,R,D,X
    8,L,J
-  30,L,K
-  20,R,U,Z
+  21,L,K
+  18,R,U,Z
    4,L,J
   11,L,K
-   2,L
+   1,L
   15,U,X
-  14,L
+  13,L
    2,L,J
   12,L,Z
   50,L,J
@@ -228,4 +213,4 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/LudboyBirthday
  337,R,D
  152,U,X
 
-ChapterTime: 0:36.533(2149)
+ChapterTime: 0:36.193(2129)
