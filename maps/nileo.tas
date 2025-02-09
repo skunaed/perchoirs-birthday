@@ -1,4 +1,4 @@
-RecordCount: 942
+RecordCount: 949
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/NileoBirthday
    1
@@ -101,20 +101,16 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/NileoBirthday
   25,R,J,G
    4,R
   28,R,K,G
-   1,J
-   2,R,J
-   1,K
-   9,L,J
-   5,L
    1,L,J
-  25,L,D
-   4,L
+  24,L
+   2,L,J
+  21,L
    9,L,J
   18,L
-  17,L,U,Z
+  16,L,U,Z
    2,L,J
-  10,L
-   2
+  11,L
+   1
   15,L,Z
    3
   10,R,J,G
@@ -292,4 +288,4 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/NileoBirthday
   11,R,U,X
  135,R,D
 
-ChapterTime: 0:29.631(1743)
+ChapterTime: 0:29.614(1742)
