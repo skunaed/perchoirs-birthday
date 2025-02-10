@@ -7,109 +7,109 @@ console load PerchoirsBirthday/0-Lobbies/1-PerchoirsBirthday_OctDec
 #Start
 Read,fall lobby/0-2,Start
 Read,EnterLevel,Start
-Read,maps/maestro,Start
+Read,maps/fall/maestro,Start
    1,O
   32
 
 Read,fall lobby/2-1warp,Start
 Read,EnterLevel,Start
-Read,maps/nathan,Start
+Read,maps/fall/nathan,Start
    1,O
   32
 
 Read,fall lobby/1-5warp,Start
 Read,EnterLevel,Start
-Read,maps/lychee,Start
+Read,maps/fall/lychee,Start
    1,O
   32
 
 Read,fall lobby/5-6,Start
 Read,EnterLevel,Start
-Read,maps/arioksu,Start
+Read,maps/fall/arioksu,Start
    1,O
   32
 
 Read,fall lobby/6-7,Start
 Read,EnterPostcard,Start
-Read,maps/geflut,Start
+Read,maps/fall/geflut,Start
    1,O
   32
 
 Read,fall lobby/7-8,Start
 Read,EnterLevel,Start
-Read,maps/blackphey,Start
+Read,maps/fall/blackphey,Start
    1,O
   32
 
 Read,fall lobby/8-9,Start
 Read,EnterLevel,Start
-Read,maps/nimgol,Start
+Read,maps/fall/nimgol,Start
    1,O
   32
 
 Read,fall lobby/9-10,Start
 Read,EnterLevel,Start
-Read,maps/brase,Start
+Read,maps/fall/brase,Start
    1,O
   32
 
 Read,fall lobby/10-12,Start
 Read,EnterLevel,Start
-Read,maps/typorium,Start
+Read,maps/fall/typorium,Start
    1,O
   32
 
 Read,fall lobby/12-11,Start
 Read,EnterLevel,Start
-Read,maps/zeamox,Start
+Read,maps/fall/zeamox,Start
    1,O
   32
 
 Read,fall lobby/11-13,Start
 Read,EnterLevel,Start
-Read,maps/lenmathafak,Start
+Read,maps/fall/lenmathafak,Start
    1,O
   32
 
 Read,fall lobby/13-14,Start
 Read,EnterLevel,Start
-Read,maps/kazzers,Start
+Read,maps/fall/kazzers,Start
    1,O
   32
 
 Read,fall lobby/14-15,Start
 Read,EnterLevel,Start
-Read,maps/renlei,Start
+Read,maps/fall/renlei,Start
    1,O
   32
 
 Read,fall lobby/15-16,Start
 Read,EnterLevel,Start
-Read,maps/skyfoz,Start
+Read,maps/fall/skyfoz,Start
    1,O
   32
 
 Read,fall lobby/16-17,Start
 Read,EnterLevel,Start
-Read,maps/kol_oss,Start
+Read,maps/fall/kol_oss,Start
    1,O
   32
 
 Read,fall lobby/17-4,Start
 Read,EnterLevel,Start
-Read,maps/ata,Start
+Read,maps/fall/ata,Start
    1,O
   32
 
 Read,fall lobby/4-3,Start
 Read,EnterLevel,Start
-Read,maps/alympie,Start
+Read,maps/fall/alympie,Start
    1,O
   32
 
 Read,fall lobby/3-18,Start
 Read,EnterLevel,Start
-Read,maps/autumnal_ascension,Start
+Read,maps/fall/autumnal_ascension,Start
   61
    1,O
 
