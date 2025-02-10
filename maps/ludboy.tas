@@ -1,4 +1,4 @@
-RecordCount: 831
+RecordCount: 939
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/LudboyBirthday
    1
@@ -125,24 +125,19 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/LudboyBirthday
    1,L
   15,U,X
   13,L
-   2,L,J
-   6,L
-   1
-   9,R
+   5,L,J
+  12,L,D,X
    1,R,J
-  10,R
-   1,R,J
-   5,R
-   6,R,Z
-   3,L,J
-  10,L
-  24,L,J
-  11,L
-  24,L,U,X
+   2,R
+  10,R,D,X
+   1,L,J
+   7,L
+  37,L,J
+  27,L,U,X
    1,L,G
   12,J
    9,G
-   7,J
+   8,J
    7
   12,J
   10,L,X
@@ -161,7 +156,6 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/LudboyBirthday
    5,R,Z
    1,R,J
    7,R
-
   21,R,J
   24,U,X
    8,R,D,C
@@ -172,7 +166,6 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/LudboyBirthday
    1
   11,L,J
    2,L
-
   24,R,U,X
    6,R,J
    7,R
@@ -180,16 +173,15 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/LudboyBirthday
    7,R
   10,R,J
    1,R
-   8,R,J
-   3,K
-  10,R,X
-   1,L,J
-   5,L
-  24,R,U,X
-  11,R,J
+   7,J
+   1
+   8,L,K
+   1,L
+  27,R,U,X
+   7,J
+   4,R,J
    6,R,Z
    1,R,J
-
    6,R
    6,R,J
    7,R
@@ -205,4 +197,4 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/LudboyBirthday
  337,R,D
  152,U,X
 
-ChapterTime: 0:35.564(2092)
+ChapterTime: 0:35.275(2075)
