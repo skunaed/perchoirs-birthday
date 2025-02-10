@@ -1,7 +1,4 @@
-# PerchoirsBirthday
-# https://gamebanana.com/mods/550424
-
-RecordCount: 339
+RecordCount: 360
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/VanouBirthday
    1
@@ -85,7 +82,6 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/VanouBirthday
   25,G
   22,X,G
    7,R,G
-
    5,J,G
    9,L
    8,L,J
@@ -173,10 +169,8 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/VanouBirthday
   14,R
   39,R,X
    1,R,J
-   1,R,K
-   8,R
-  14,R,Z
-   1,R,J
+   8,R,K
+  12,R
   14,R,D,X
    1,L,J
    5,L,D,X
@@ -184,13 +178,13 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/VanouBirthday
    1,L,J,G
    8,L,G
    1,L
-  32,L,D,X
+  31,L,D,X
    1,L,J
-   3,L,K
+   4,L,K
    7,U,X
   30,L,G
    3,X,G
    8,L,G
  137,L
 
-ChapterTime: 0:38.284(2252)
+ChapterTime: 0:38.267(2251)
