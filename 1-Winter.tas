@@ -30,7 +30,7 @@ Read,maps/winter/elbaba,Start
   32
 
 Read,lobby/winter/6-5,Start
-Read,EnterPostcard,Start
+Read,EnterLevel,Start
 Read,maps/winter/cankyre,Start
    1,O
   32
@@ -42,7 +42,7 @@ Read,maps/winter/zeta,Start
   32
 
 Read,lobby/winter/4-8,Start
-Read,EnterLevel,Start
+Read,EnterPostcard,Start
 Read,maps/winter/nileo,Start
    1,O
   32
@@ -54,7 +54,7 @@ Read,maps/winter/tchou,Start
   32
 
 Read,lobby/winter/7-9,Start
-Read,EnterLevel,Start
+Read,EnterPostcard,Start
 Read,maps/winter/ludboy,Start
    1,O
   32
