@@ -1,0 +1,60 @@
+Unsafe
+
+console clrsav
+console load PerchoirsBirthday/0-Lobbies/2-PerchoirsBirthday_JanMar
+   1
+
+#Start
+Read,lobby/winter/0-3,Start
+Read,EnterLevel,Start
+Read,maps/winter/maskamenn,Start
+   1,O
+  32
+
+Read,lobby/winter/3-1,Start
+Read,EnterLevel,Start
+Read,maps/winter/xandouille,Start
+   1,O
+  32
+
+Read,lobby/winter/1-2,Start
+Read,EnterLevel,Start
+Read,maps/winter/vanou,Start
+   1,O
+  32
+
+Read,lobby/winter/2-6,Start
+Read,EnterLevel,Start
+Read,maps/winter/elbaba,Start
+   1,O
+  32
+
+Read,lobby/winter/6-5,Start
+Read,EnterPostcard,Start
+Read,maps/winter/cankyre,Start
+   1,O
+  32
+
+Read,lobby/winter/5-4,Start
+Read,EnterLevel,Start
+Read,maps/winter/zeta,Start
+   1,O
+  32
+
+Read,lobby/winter/4-8,Start
+Read,EnterLevel,Start
+Read,maps/winter/nileo,Start
+   1,O
+  32
+
+Read,lobby/winter/8-7,Start
+Read,EnterLevel,Start
+Read,maps/winter/tchou,Start
+   1,O
+  32
+
+Read,lobby/winter/7-9,Start
+Read,EnterLevel,Start
+Read,maps/winter/ludboy,Start
+   1,O
+  32
