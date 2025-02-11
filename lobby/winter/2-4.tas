@@ -1,4 +1,4 @@
-console load PerchoirsBirthday/0-Lobbies/2-PerchoirsBirthday_JanMar 412 200
+console load PerchoirsBirthday/0-Lobbies/2-PerchoirsBirthday_JanMar 368 192
    1
 
 #Start
@@ -6,14 +6,13 @@ console load PerchoirsBirthday/0-Lobbies/2-PerchoirsBirthday_JanMar 412 200
 
 #lvl_lobbymain1
    4,L,Z
-   5,L,J
-   7,L,K,G
-  23,L,D,X
-   3,L
-  23,L,D
-  13,L,D,X
+   1,L,J
+  10,L,D
+   2,D
+  37,L,D
+  14,L,D,X
    7,L,J
   15,L,D,X
    1,N
 
-#0:01.513(89)
+#0:01.394(82)
