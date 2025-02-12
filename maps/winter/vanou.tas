@@ -1,4 +1,4 @@
-RecordCount: 360
+RecordCount: 399
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/VanouBirthday
    1
@@ -33,26 +33,17 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/VanouBirthday
    5,R,J
   10,R,X
    5,R,J
-  14,U,X
-   1,J
+  15,U,X
   40
 
 #lvl_2
-   5,R
-   1,J,G
-   1,L
-   1,K
-   2,L,K
-   1,L
-  14,L,U,X
-   1,L,J,G
-   7,L
-   2,L,J
-   7,L
-   6,J
-  18,J,G
+  15,J
+   4,L,J
+   1,L,K,G
+   3,L,J,G
+  25,L,K,G
    9,X,G
-  13,L,G
+  18,G
    3,L
   19,U,X
   39,G
@@ -62,17 +53,17 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/VanouBirthday
   12,L
    5,R
   13,R,G
-  19,X,G
+  21,X,G
    8,R,G
    1,L
   10,R
-   4
+   5
   16,G
   12,L,X,G
   14,R,G
    1,L
    3,R
-  38,R,X
+  37,R,X
    5,R,J
    4,R,K
   21,R,K,G
@@ -187,4 +178,4 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/VanouBirthday
    8,L,G
  137,L
 
-ChapterTime: 0:38.267(2251)
+ChapterTime: 0:38.131(2243)
