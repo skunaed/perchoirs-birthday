@@ -1,4 +1,4 @@
-RecordCount: 460
+RecordCount: 595
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/TchouBirthday
    1
@@ -46,81 +46,63 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/TchouBirthday
   15,R,D,X
   10,R
   25,U,C
-  15,R,D,X
-  10,R,D
+  25,R,D,X
   10,L,Z
    8,R,J
   10,R
-
-  17,R,U,X
-  18,U,Z
-  20,R,X
+  21,R,U,X
+  18,R,U,C
+   6,J,G
+   6,K
+  15,U,X
+   4,L
+  18,J
   15,U,C
-   5,L
-  29,L,J
-   3,J
-  16,R,K
-   4,J
   40
 
 #lvl_3
-  13
+  10
+   3,R
   21,U,X
-  11,R,U,C
-   1,R,J,G
-   1,R,K,G
-   4,K
-
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,J
-  21,R,J
-   4,J
-
-  11,R,D,X
-   4,L,J
-   8,L,U,X
-  37,R,J
-  18,R,X
+  18,U,C
+  17,L,U,X
+   9,L,U,C
+  27,R
+  21,R,X
+   1
+   1,R
+   1
   15,U,C
-   5,R
-   8,L,X
+  10,L,X
    1,R,J,G
-   6,R,J
+   5,L,J
   18,U,X
-  22,L,U,C
-  13,L,X
-   1,L,J,G
-   4,L
-
-   6,L,D,C
-   1,L,J
-   7
-  14,R,J
+  15,L,U,C
+  16,L,X
+   8,L,J,G
+   4
+  10,L,C
+  10,L,J
   14,R,Z
    1,R,J
-   2,R
-  16,R,D,X
+  15,R,D,X
    1,R,J
-  10,R,U,X
-  30,L,J
+  10,R,U,C
+  28,L,J
   18,U,X
   14,L,Z
-  19,L,J
-   3,L
-
-  13,R,D,X
-   1,R,J
-   1,R
-  24,R,D,X
-  12,R,J
-  13,R,U,X
+   8,L,J
+   4,L
+  14,L,Z
+   4,R,J
+  15,R,D,X
+  10,R
+  10,R,J
+   6,R
+  14,R,U,X
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-   6,R
+   7,R
   49
    6,R
   45,D,X
@@ -136,6 +118,7 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/TchouBirthday
   11,J
    4,K,G
   17,J,G
- 150,U,X
+  15,U,X
+ 135,D
 
-ChapterTime: 0:22.304(1312)
+ChapterTime: 0:21.131(1243)
