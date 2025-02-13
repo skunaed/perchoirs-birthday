@@ -1,17 +1,17 @@
 Read,StartFullCollabFile
 
-Read,LoadWinterLobby
+Read,LoadFallLobby
 
-Read,1-Winter,Start
-
-Read,LoadLobbyfromHeartside
-
-Read,2-Spring,Start
+Read,1-Fall,Start
 
 Read,LoadLobbyfromHeartside
 
-Read,3-Summer,Start
+Read,2-Winter,Start
 
 Read,LoadLobbyfromHeartside
 
-Read,4-Fall,Start
+Read,3-Spring,Start
+
+Read,LoadLobbyfromHeartside
+
+Read,4-Summer,Start
