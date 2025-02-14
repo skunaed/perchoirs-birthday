@@ -1,4 +1,4 @@
-RecordCount: 3986
+RecordCount: 4011
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    1
@@ -7,7 +7,7 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
  190
 
 #spinner cycle
-   1
+   2
 
 #lvl_00-LOBBY_1-00
    4,R
@@ -253,17 +253,18 @@ EndRepeat
   11,L,D,X
    1,R,J
    9,K,G
-   2,R,K
-  20,R,D
-   5
-   3,R
-  12,R,G
-  19,R,D
-  29,R,Z
+  17,R,K
+   9,R,J,G
+   2,L,J
+   2,R,J
+   1,R,K,G
+  10,R,J,G
+  15,R,D,X
+   2,R
+  23,R,D
   32,R,J
-   3,R,K,G
-   1,K
-   1
+   2,K,G
+   2,R,K
   10,R,X
    6,R,J
   15,R,D,X
@@ -1044,4 +1045,4 @@ endrepeat
   17,U,X
  135
 
-ChapterTime: 3:31.990(12470)
+ChapterTime: 3:31.837(12461)
