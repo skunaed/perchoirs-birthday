@@ -1,7 +1,7 @@
 # PerchoirsBirthday
 # https://gamebanana.com/mods/550424
 
-RecordCount: 616
+RecordCount: 629
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CacarafeBirthday
    1
@@ -66,17 +66,17 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CacarafeBirthday
    6,R,J
    3,J
    5
-  21,D
-  10,L
-   9,L
+  24,D
+  13
+   7,R
   10,L,X
   10,R,J
-  32,R,D
-  16,R,U,X
-  14,R,Z
+   2,R
+  13,R,D
+  17,R,Z
+  14,R,V
   11,R,J
   13,R,U,X
-
   15,L
   16,L,U,X
   36,L,U,G
@@ -143,4 +143,4 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CacarafeBirthday
   11
  147,U,X
 
-ChapterTime: 0:24.820(1460)
+ChapterTime: 0:24.616(1448)
