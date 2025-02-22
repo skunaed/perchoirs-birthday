@@ -1,4 +1,7 @@
-RecordCount: 664
+# PerchoirsBirthday
+# https://gamebanana.com/mods/550424
+
+RecordCount: 686
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CacarafeBirthday
    1
@@ -23,6 +26,7 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CacarafeBirthday
 #lvl_2
   15,R,D,X
    2,R,J
+
    5,R
   13,L
   11,L,X
@@ -59,22 +63,20 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CacarafeBirthday
    1,L,J,G
    3,R,J
    1,R
-   5,R,J
-   2,J
-   4,R
-   4
-  24,L,D
-  12,L
-   4
-   2,L
+   6,R,J
+   3,J
+   5
+  24,D
+  13
+   7,R
   10,L,X
   10,R,J
    2,R
   13,R,D
-  16,R,Z
+  17,R,Z
   14,R,V
-   9,R,J
-  14,R,U,X
+  11,R,J
+  13,R,U,X
   15,L
   16,L,U,X
   36,L,U,G
@@ -99,31 +101,29 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CacarafeBirthday
   14,U,X
   37,R
   15,R,X
-
   15,R,Z
   18,D
   10,L,D
-   4,D
-   4
-   1,R
-   1,L,J,G
-   1,J
-   7,R,J
-   3,J
-  25,R
-  15,R,Z
-  24,R,D
-   5
-   7,R
+   6,D
+   2,L,D
+   2,R,D
+  10,U,X
+  32,R
+  22,R,D,Z
+   3,R
+  13,R
   13,L,Z
    1,R,J
    1,R
-  12,R,Z
+  14,R,Z
    1,R,J,G
    8,R
   13,R,J
-  84,U,X
-  10,R,C
+  33,U,X
+
+
+  51,U
+  10,R,X
   20,R,J
   15,R,D,X
   11,R
@@ -136,7 +136,6 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CacarafeBirthday
 
 #lvl_heart
   11
-  12,U,X
- 135
+ 147,U,X
 
-ChapterTime: 0:24.565(1445)
+ChapterTime: 0:24.480(1440)
