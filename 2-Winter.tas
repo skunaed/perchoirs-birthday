@@ -58,3 +58,21 @@ Read,EnterPostcard,Start
 Read,maps/winter/ludboy,Start
    1,O
   32
+
+Read,lobby/winter/9-10,Start
+Read,EnterLevel,Start
+Read,maps/winter/ampheur,Start
+   1,O
+  32
+
+Read,lobby/winter/10-11,Start
+Read,EnterLevel,Start
+Read,maps/winter/cacarafe,Start
+   1,O
+  32
+
+Read,lobby/winter/11-12,Start
+Read,EnterLevel,Start
+Read,maps/winter/shirowee,Start
+   1,O
+  32
