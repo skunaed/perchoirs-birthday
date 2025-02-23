@@ -16,10 +16,11 @@ console load PerchoirsBirthday/0-Lobbies/2-PerchoirsBirthday_JanMar 136 208
   13,R,D,X
    3,R,J
   14,R,D,X
-  13,R,J
-  15,R,D,C
-  15,R,D,X
-  32,D
+   1,R,J
+   8,R,X
+   7,R,K,G
+  39,R,D,X
+  16,L,D
    1,N
 
-#0:02.448(144)
+#0:02.380(140)
