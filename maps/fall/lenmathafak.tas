@@ -1,4 +1,4 @@
-RecordCount: 1239
+RecordCount: 1280
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/LenmathafakBirthday
    1
@@ -89,20 +89,25 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/LenmathafakBirthday
   19,G
    6,L
   11,L,X
+
    4,R,G
    3,R,J,G
   10,R,X
+   8,R,J
+
+   1,R,K
+  26,R,K,G
+  19,R,X
+
    4,R,J
-  29,R,K,G
-  21,R,X
-   4,R,J
-   8,U,X
-  23,R,G
-   2,R
+   6,U,X
+  24,R,G
+   1,R
   14,L,X
    4,R,G
   10,R,U,X
-   4,R,J
+
+   5,R,J
   16,R,K
   17,R,X
   15,U,C
@@ -127,4 +132,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/LenmathafakBirthday
   15,R,U,Z
   10,L
  135
-ChapterTime: 0:22.083(1299)
+ChapterTime: 0:22.066(1298)
