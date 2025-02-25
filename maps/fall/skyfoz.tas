@@ -1,4 +1,4 @@
-RecordCount: 371
+RecordCount: 399
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/SkyfozBirthday
    1
@@ -57,19 +57,21 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/SkyfozBirthday
   31,R,J
   12,R,Z
    4,R,J
+   3,R,K,G
+   3,R
+   6,R,U,X
    8,R,K,G
-   7,R,J,G
   40
 
 #lvl_3
-   7,R,J
+   6,R,J
   15,R,D,X
-   4,R,J
-   5,R
    3,R,J
+   5,R
+   1,R,J
    6,R
   12,R,U,X
-  23,R,J,G
+  20,R,J,G
   16,R,U,X
   19,R,Z
   13,R,V
@@ -95,4 +97,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/SkyfozBirthday
   10,U,C
  135,D
 
-ChapterTime: 0:19.839(1167)
+ChapterTime: 0:19.754(1162)
