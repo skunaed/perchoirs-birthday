@@ -1,4 +1,4 @@
-RecordCount: 549
+RecordCount: 1136
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/RenleiBirthday
    1
@@ -11,40 +11,64 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/RenleiBirthday
    1,R,J
    7,R
    1,R,J
-  14,R,D,X
+  13,R,D,X
    1,R,J
-   9,R,D,X
+   7,R
+   1,R,J
   40
 
 #lvl_2
+   3,R,J
+  14,R,U,Z
+   1,L,J,G
+   9,R,J
+   5,R
    1,R,J
-   7,R
-  13,R,J
-  15,R,U,X
-  19,R,U,C
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   3,K
   15,U,X
-   7,L
-  11,U,C
+   8,L
+  12,U,C
   40
 
 #lvl_3
    2,L
-  11,L,J
+  11,R,J
   15,U,X
-  21,L,U,C
-  22,L,U,X
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   7,L,J
+   5,L
+   5
+  15,U,X
   15,U,C
   15,U,X
-   3,L
-  15,U,X
-   4,R
+   2,L
+  12,R,J
+  23,U,X
+   3,R,U
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   2,R,K
   15,R,U,X
-  19,R,U,C
-  19,R,U,X
-   9,R,U
+   4,L,U
   15,U,C
-  10,L,U,X
-  13,L,U,J,G
+  11,L,U,X
+   1,L,J,G
+  10,J
   15,L,U,C
   15,U,X
   15,U,C
@@ -54,7 +78,7 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/RenleiBirthday
    1,R,J
   14,R,D,X
    1,R,J
-   8,R,D,X
+   7,R,D,X
   40
 
 #lvl_4
@@ -97,38 +121,54 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/RenleiBirthday
    9,R,U,X
    2,R,J,G
    4,R
-   6,R,Z
+  14,R,Z
    1,R,J
    7,R
    1,R,J
-  12,R,D,X
+   3,R
+   5,R,U,Z
   40
 
 #lvl_5
-   1,R,J
-   7,R
-  14,R,J
-  15,U,X
-  11,R,U
-  15,U,X
-  12,R
-  18,U,C
-  23,R,U,Z
-   7,L,C
-  21,L,J
-
+   4,R,U,Z
+   1,L,J,G
+  11,R,J
    8,U,X
-   2,L,J
-  21,R,J
-  15,R,X
-
-  15,R,C
+   7,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   2,J
+   1
+  15,U,Z
+   1,R
+  18,L,J
+  17,R,U,Z
+   7,L,C
+  16,L,J
   14,U,X
+  16,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   7,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   3,R,J
+  12,U,Z
    9,L,U,J
   15,U,X
    5,L
   18,L,U,C
-   4,L
   15,L,U,X
   15,L,U,Z
   19,R,U,X
@@ -143,58 +183,74 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/RenleiBirthday
    1,R
    6,R,J
    9,R
-  17,R,U,Z
+  14,R,U,Z
+   1,R,J
   18,U,X
-   6,R
-   8,U
-  16,U,X
-  32,L,J
-  22,L,U,X
-  10,U,C
+  15,U,C
+   2,R,U
+   8,J
+   9,R,K
+   1,L,J
+  15,U,X
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+  18,L,K
+  15,U,X
+   2,L
+  15,U,X
    7,R,J
    4,R
   15,L,U,X
-   7,U,C
-   7,R,J
-   4,R
-  15,L,U,X
-
   15,R,U,C
-  12,U,X
-   2,R,J
-  13,R
+  12,U,Z
+   1,R,J
+  11,R
    6,R,Z
    1,R,J
    7,R
    1,R,J
   14,R,D,X
    1,R,J
-   7,R,D,X
+   4,R
+   5,R,U,Z
   40
 
 #lvl_6
-   8,R,J
-  15,R,U,X
-  15,R,U,C
-  28,R,X
-  24,R,D,C
-  15,R,X
-  15,U,C
-  19,R,U,X
-  27,R,C
-  17,R,X
-   7,R,Z
-  10,R,J
-  13,R
-  15,R,U,X
-  15,R,U,C
-  13,R,D,X
+   6,R,U,Z
+   1,L,J,G
+  13,R,U,J
+   1,R,K
    1,R,J
-   7,R
-  19,R,X
+   1,R,K
+   7,R,J
+  15,R,D,X
+  15,R,D,C
+   4,R
+  10,U,X
+   1,R,J
+   9,R
+  15,R,U,X
+  27,R,C
+  16,R,X
+   7,R,Z
+  11,R,J
+  12,R
+   5,R,J
+  10,R,U,Z
+   8,R,J,G
+   5,R
+   9,R,J
+  21,R,X
+   6,D
+   1,R,J
+  24,R
+  11,R,D
   15,R,C
-  29,R,D
-  15,R,X
    1,R,J
    1,R,K
    1,R,J
@@ -236,4 +292,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/RenleiBirthday
    9,U,X
  135,D
 
-ChapterTime: 0:34.901(2053)
+ChapterTime: 0:32.997(1941)
