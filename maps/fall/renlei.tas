@@ -1,4 +1,4 @@
-RecordCount: 1254
+RecordCount: 1358
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/RenleiBirthday
    1
@@ -233,24 +233,27 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/RenleiBirthday
   15,R,D,C
    4,R
   10,U,X
-   1,R,J
-   9,R
-  15,R,U,X
-  27,R,C
-  16,R,X
+   7,R,J
+   3,R
    7,R,Z
-  11,R,J
-  12,R
-   5,R,J
-  10,R,U,Z
-   8,R,J,G
+  20,R,J,G
+  15,R,D,X
+   4,R,J
+   7,R,Z
+  21,R,J
+   3
+   3,R,K
+   1,R,J
+   1,R,K
+  12,R,U,Z
+   4,R,J,G
    5,R
    9,R,J
   21,R,X
-   6,D
+   5,D
    1,R,J
-  24,R
-  11,R,D
+  23,R
+  12,R,D
   15,R,C
    1,R,J
    1,R,K
@@ -260,25 +263,25 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/RenleiBirthday
    1,R,K
    4,R
    9,R,U,X
-  11,R,J,G
-  18,R
-  20,R,D,X
-  15,R,C
+   9,R,J,G
+  29,R
+   1,R,D
+   3,R,D
+  16,R,C
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   7,R,J
-   1
-   4,R
-   1,R,K
+   6,R,J
+   6,R
    1,R,J
    1,R,K
    1,R,J
-   3,R,K
-  17,R,D,X
+   1,R,K
+   3,R,J
+  16,R,D,X
    1,R,J
   11,R
   40
@@ -293,4 +296,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/RenleiBirthday
    9,U,X
  135,D
 
-ChapterTime: 0:32.776(1928)
+ChapterTime: 0:32.521(1913)
