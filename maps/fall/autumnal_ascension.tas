@@ -1,4 +1,4 @@
-RecordCount: 4644
+RecordCount: 4755
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    1
@@ -869,40 +869,39 @@ endstunpause
    1,L
   15,U,C
   15,U,X
-  34,L,J
-   1,L
-  14
-   5,L
-   8,J,G
-   5,L,J
-   3
-   3,L
-   4
-   1,L
-  41
-   3,L,D,J
-   1,L
-  16,L,J
-   8,L,U,Z
-   1,R,J,G
-   7,R,K,G
-  19,R,X
-   4,R,J
-  39,R,K
-  28,R,X
-  14,R,Z
-   9,R,J
-   2,R
-  16,R,D,X
+   6,L,J,G
+   2
+   4,K,G
+   1,J,G
+   3,L,J
+   7,L
+   4,X
+  15,R,J
+  18,R,U,X
+  30,R,D
+stunpause
+   2,R,D
+   1,R
+skipinput 3 1
+  10,R,Z
+   2,R,J
+endstunpause
+   2,R,J
+   1,R
+  15,R,U,X
+  14,R,D
+   3,D
+  10,R,D,X
+   7,R,J
+  15,R,D,X
    1,R,J
-   9,R,D,X
+  10,R,D,X
   40
 
 #lvl_lenmathafak
-
-   5,R
+   4,R,D,X
    1,R,J
-   9,R,D,X
+  10,R,D,X
   31,R,J,G
   17,R,U,X
    7,R,C
@@ -1033,4 +1032,4 @@ endrepeat
   17,U,X
  135
 
-ChapterTime: 3:28.029(12237)
+ChapterTime: 3:27.281(12193)
