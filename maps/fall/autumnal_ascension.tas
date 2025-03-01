@@ -1,4 +1,4 @@
-RecordCount: 4755
+RecordCount: 5140
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    1
@@ -365,43 +365,43 @@ EndStunPause
    4,R,J
   30,R
   14,R,D
-   4,R
-#+1f flemme de fix tout de suite
-   1,G
-   6,R,J,G
-   7
+   4,R,G
+   1,R,J,G
+  12
   19,R
    3,R,J
-   9,R
-   3,R,K,G
+   2,K
+   7,R
+   1,R,J,G
   12,R
    7,R,J
   40
 
 
 #lvl_zeamox
-  10,R,D,X
-  10,R,J
-   5,R,J
-  17,R,D,X
-  23,R,J
-  14,U,X
-  27,R,J
+  10,L,D,X
+  15,R,J
+  15,R,D,X
+  17,R,D,J
+   1,R
+   4,R,J
+   5,J
+  13,U,X
+  25,R,J
   15,U,X
-   2,R
-  11,L,Z
-  36,R,J
-  17,R,U,X
+  10,L,Z
+  34,R,J
+  18,R,U,Z
 #spinner cycle
    0
 #
-  15,R,U,C
-   1,J
-   9,R,J
+  14,R,U,X
+   1,R,J
+   8,R,K
   10,L,Z
-  32,R,J
+  31,R,J
   18,R,U,X
-   9,L,U,C
+   8,L,U,C
   11,R,J
   18,R
   16,L,U,X
@@ -637,48 +637,47 @@ endstunpause
   17,R
   30,R,J
   24,R,D,K
-  41,R
-   1,R,J
-   4,R,D
-   1,R,J
+  47,R
   40
 
 #lvl_geflut
    1,R
-  14,R,D,X
-   8,R,J
+   4,R,Z
+   1,R,J
+   7,R
+   5,R,J
   16,R,D,X
    2,R,J
-  18,R,D,X
+  17,R,D,X
    1,R,J
    3,R
   19,R,D,X
-   5,R,J
-   4,R
-  10,R,J
-  15,R,D
-   1
-   4,R
-   8,U,X
-
-  15,R,J
-  33,R,D
-  15,R,U,Z
-  12,L,J,G
-   9,K,G
-   1,R,K
-   1,L,K
-   1,J
-  38,R,J
-  15,R,X
-  14,R,Z
    1,R,J
-  16,R,D,X
-
-   4,R,J
-   7,R,D,J,X
-  19,L,J
-  46,L,D,X
+   5,R,D
+   1,D
+   2,R,D
+   1,R,D
+  18,R,D
+   9,R,U,Z
+   1,L
+  11,J,G
+   7,R,J
+   3,J
+   5,K
+  12,L,J,G
+  11,K,G
+   1,J
+   2,K,G
+  25,R,K,G
+  16,R,X
+  11,R,D,C
+   2,R,J
+   3,R
+  17,R,D,X
+   1,R,J
+  12,R,X
+  10,L,J
+  47,L,D,X
    1,R
   15,U,X
   14,R,Z
@@ -690,14 +689,12 @@ endstunpause
   28,R,D
   14,R,Z
    4,R,J
-
   14,R,Z
    1,R,J
   12,R,U,X
    1,J,G
    3,J
    4,R,K,G
-
    3,R,J,G
    7,R
    1,R,J
@@ -744,7 +741,6 @@ endstunpause
    4,R,Z
    4,R,J
   30,R,J,G
-
    6,R
   14,R,D,X
   25
@@ -756,19 +752,21 @@ endstunpause
    1,R,D
    1,R,J
    1,R,K
-   3,R
-   6,R
+   9,R
+
   40
 #lvl_TRANSITION_CP4
    6,R
   10,R,D,J
   14,R,U,X
   17,L
-
  594
   19
   16,J
   15,U,X
+#spinner cycle
+   0
+#
   10,R
    6,R,Z
    1,R,J
@@ -842,66 +840,54 @@ endstunpause
   31,R,K
   21,R,X
    4,R,J
-   7,R,K
-  19,R,U,Z
-   8,R,J
-   7,K
-  14,R,K
-   5,L,J,G
-  18,L,X
-   4,L,J
-   7,L,K
-  14,L,D
-  15,L,X
-   4,L,J
-   8,L,K
-  17,L,U,Z
-   4,L,J
-   6,L,K
-   1,L
-  15,L,K
-  12,R,U,X
+   6,R,K
+  21,R,U,X
+   4,J
+   1
+  18,L,U,X
+  30,L,K
+  14,L,Z
+  11,L,J
+  17,L,X
    4,R,J
-  12,R,K
-  17,R
-  21,R,X
-  22,L
-   1,L
+   4,R,K
+  14,R,U,Z
+   4,R,J
+  11,R,K
+  17,R,U,X
+  24,L
   15,U,C
   15,U,X
-   6,L,J,G
-   2
+   8,L,J,G
    4,K,G
-   1,J,G
-   3,L,J
+   3,L,K
    7,L
    4,X
-  15,R,J
+  11,R,J
+   4,R
   18,R,U,X
-  30,R,D
+  25,R,D
+   8,R,D,X
 stunpause
-   2,R,D
-   1,R
-skipinput 3 1
-  10,R,Z
+   6,R,D
    2,R,J
 endstunpause
-   2,R,J
-   1,R
-  15,R,U,X
-  14,R,D
-   3,D
-  10,R,D,X
+   3,R,J
+  15,R,U,Z
+  17,R,D
+  10,R,Z
    7,R,J
-  15,R,D,X
+  16,R,D,X
    1,R,J
-  10,R,D,X
+   9,R,D,X
+#2:39.987(9411)
+
   40
 
 #lvl_lenmathafak
-   4,R,D,X
+   5,R,D,X
    1,R,J
-  10,R,D,X
+   9,R,D,X
   31,R,J,G
   17,R,U,X
    7,R,C
@@ -1032,4 +1018,4 @@ endrepeat
   17,U,X
  135
 
-ChapterTime: 3:27.281(12193)
+ChapterTime: 3:24.646(12038)
