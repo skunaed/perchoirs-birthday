@@ -1,4 +1,4 @@
-RecordCount: 4620
+RecordCount: 4644
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    1
@@ -982,24 +982,25 @@ endstunpause
   14,R,Z
   10,R,J
   14,R,Z
-  29,R,J
-  16,R,X
+  20,R,J
+   9,R
+  15,R,X
   18,U,C
-
   13,L,U,X
- 148,R,C
+ 145,R,C
   14,R,D,X
    1,R,J
-   8,R,D,X
+  10,R,D,X
    1,R,J
    3,R
   20,R,J
-  18,U,X
+  15,U,X
+   3,R
    7,R,J
    9,L,X
-  34,R,J
-
-  13,R,X
+  20,R,J
+  10,R
+  14,R,X
  551,R,C
 
 #lvl_skyfoz_2
@@ -1032,4 +1033,4 @@ endrepeat
   17,U,X
  135
 
-ChapterTime: 3:28.114(12242)
+ChapterTime: 3:28.029(12237)
