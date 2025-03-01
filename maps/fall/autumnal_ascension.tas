@@ -1,13 +1,10 @@
-RecordCount: 4392
+RecordCount: 4620
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    1
 
 #Start
  190
-
-#spinner cycle
-   2
 
 #lvl_00-LOBBY_1-00
    4,R
@@ -27,7 +24,7 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    8,R,J,G
    7,R
    7,R,J
-   4,R,K,G
+   5,R,K,G
   15,U,X
  184
   40
@@ -87,6 +84,9 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
 
 #lvl_maestro
   16,R
+#spinner cycle
+   2
+#
   23,R,X
    1,R,J,G
    2,L,J
@@ -179,8 +179,9 @@ EndRepeat
 
 #lvl_nimgol
    3,R
-   7,R,J
-  20,R,U,X
+   5,R,J
+   4,J
+  15,R,U,X
   11,U,C
   56,R
   19,R,X
@@ -191,15 +192,16 @@ EndRepeat
    9,L
   15,R,U,X
   15,R,C
-   8
-   4,R
+   4
+   7,R
   15,R,Z
   18,R,D
    4,D
-  10,L,D,X
-  18,R
+  11,L,D,X
+  17,R
   12,R,D,X
-  18,L
+  14
+   4,R
   15,U,X
   12,L,U,C
    4,R
@@ -220,28 +222,25 @@ EndRepeat
   40
 
 #lvl_ata
-   5,R,D,X
+   3,R,D,X
    1,R,J
-   6,R
-   1,N
-   3,J
-  11,R,X
-   1,J
-   3
-   6,R
-   1
+   7,R
+   3,R,J
+  15,R,X
+   5,R
+   2,R,J
   11,L,X
-  12,R,J
-  14,R
-   6,R,J
-  10,R,D
-   2,D
-   1
+  28,R,J
+   1,R
+   3,R,J
+  12,R,D
+   1,R
   14,R,X
    2,R,J
    8,R
    7,R,J
    3,J
+   1,R,J
   20,R,K
   14,R,U,X
   91,R,G
@@ -264,33 +263,35 @@ EndRepeat
   23,R,D
   32,R,J
    2,K,G
-   2,L,K
-  10,R,X
-  10,R,J
-  11,R
-   7,R,J
-   4,R
-  16,R,U,Z
-   5,R,J,G
-   7,R
-   8,L,D,X
+   2,R,K
+  10,R,Z
+   3,R,J
+   2,R
+  10,R,D,X
+   2,R,J,G
+   4,R,D
+stunpause
+   5,R,D
    1,R,J
-   6,R
-  10,R,J
-  80,R
-   6,R,D
-  14,R,Z
-   1,R,J
-  14,R,D,X
-   1,R,J
+endstunpause
+   2,R,J
+   1,R
+StunPause
+   2,R
+SkipInput 3 1
    6,R,D,X
+endstunpause
+   2,R,D,X
+StunPause
+   6,R,D
+EndStunPause
+  15,R,D
   40
 
 #lvl_TRANSITION_CP2
-   3,R,J
-  16,R
+   1,R,D
    1,R,J
- 289,R,D,X
+ 288,R,D,X
    4,R,J
    1,R,K
   11,R,X
@@ -364,9 +365,11 @@ EndRepeat
    4,R,J
   30,R
   14,R,D
-   4,R,G
-   1,R,J,G
-  12
+   4,R
+#+1f flemme de fix tout de suite
+   1,G
+   6,R,J,G
+   7
   19,R
    3,R,J
    9,R
@@ -1029,4 +1032,4 @@ endrepeat
   17,U,X
  135
 
-ChapterTime: 3:29.134(12302)
+ChapterTime: 3:28.114(12242)
