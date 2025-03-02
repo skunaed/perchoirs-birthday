@@ -1,4 +1,4 @@
-RecordCount: 5622
+RecordCount: 5939
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    1
@@ -370,8 +370,7 @@ EndStunPause
    2,R,J
    8,R
    5,R,D
-   3,R,J
-   3,R,J
+   6,R,J
    5,R
 #spinner cycle 2/3
 ###
@@ -417,7 +416,7 @@ endstunpause
   34,R,J
   18,R,U,Z
 #spinner cycle
-   1
+   0
 #
   14,R,U,X
    1,R,J
@@ -429,24 +428,22 @@ endstunpause
   11,R,J
   18,R
   16,L,U,X
-   1,J,G
-   4
-   2,J
-   5,R,J
-   9,L,Z
+   1,L,J,G
+   5,L
+  13,L,Z
    1,R,J
    7,R
+   1,R,J
+   3,R
+  21,R,D,X
    2,R,J
-   1,R
-  20,R,D,X
-   3,R,J
   15,R,D,X
-  72,R
-  10,R,D
-   4,R,J
-   2,J
-   2
-  20,K,G
+  83,R
+   7,R,J
+   6,K,G
+   7,J,G
+   5
+   1,R
    5,R,U,Z
   40
 
@@ -521,13 +518,12 @@ endstunpause
    5,U,C
   10,J
   15,R,X
-   7,U,C
-   2,R,J
-   5,R
-   6,R,J
-  11,R
-   9,R,J
-  36,R,D
+  10,U,Z
+   1,J
+   4
+   8,R,D,X
+   7,R,J,G
+  40,R
   15,R,X
    1,R,J
    1,R,K
@@ -614,7 +610,6 @@ endstunpause
    8,R,U
    1,U
    9,R,U
-
   15,D
    3,R,D
    9,D
@@ -642,7 +637,6 @@ endstunpause
   27,R,D
   20,R,U
    6,R
-
    1,R,J
   16,R
   10,U,J
@@ -709,28 +703,27 @@ endstunpause
    3,R,J
   17,R,D,X
   30,R,J
-  28,R,D
+  26,R,D
+   2,D
   14,R,Z
-   4,R,J
-  14,R,Z
+   1,R,J
+   3,R
+   1,R,K,G
+   9,R
    1,R,J
   12,R,U,X
-   1,J,G
-   3,J
-   4,R,K,G
-   3,R,J,G
-   7,R
-   1,R,J
-   9,R,D,X
+  15,R,J,G
+   3,R,K,G
+   5,R
   40
 
 #lvl_typorium
-   2,R
-   3,R,J
-   9,R,K,G
-   9,K,G
-  10,G
-   3,R
+   6,R
+   2,R,J
+   4,J
+  10,J,G
+  11,G
+   1,R
    8,U,X
   28,R,G
    1,R
@@ -784,11 +777,11 @@ endstunpause
   14,R,U,X
   17,L
  594
-  19
-  16,J
+  16
+  18,J
   15,U,X
 #spinner cycle
-   1
+   0
 #
   10,R
    6,R,Z
@@ -806,28 +799,27 @@ endstunpause
    1,R
    6,R,D,X
   28,R,G
-   4,R,J,G
-  30,R,K,G
-  11,R,U,K,G
-   7,R
-   7,U,X
-  20,R,G
-   6,R,G
-  14,D
+   8,R,J,G
+  25,R,U,K,G
+  10,R,G
    8,R
+  13,U,X
+  21,R,U,G
+  10,D
+   9,R,D
    5,R,X
-  28,R,G
+  30,R,G
    1,L,G
   39,L,D,G
   18,R,Z
    4,L,G
   26,R,U,X,G
    7,R,J,G
-  68,R,U,K,G
+  63,R,U,K,G
    1,L
-  19,R
-  15,R,U,Z
-   1,J,G
+  10,R
+  20,R,Z
+   9,J,G
   26,D
    5,L,D
    7,R,D
@@ -838,10 +830,13 @@ endstunpause
    6,R
    5,L,D
   22,R,D
-   4,R,Z
+  11,R,Z
    1,R,J
    7,R
-  39,R,J
+   9,R,J
+   5,R
+   2,R,J
+  14,R
   14,R,Z
    1,R,J
   14,R,D,X
@@ -852,21 +847,21 @@ endstunpause
 #lvl_kazzers
    3,R
    1,R,J
-  13,R,D,X
-   6,R,J
-   3,R
-   5,R,K,G
-   6,R,J,G
-  18,U,X
-  13,R
+   8,R,D,X
+   1,R,J
+   7,R
+  17,R,J
+  21,U,X
+   9,R
   14,R,X
-   5,R,J
-  10,R,K
-   2,K
-  22,R,U,X
+   7,R,J
+  11,R,K
+   1,K
+  19,R,U,X
    4,R,J
-  31,R,K
-  21,R,X
+  11,R,K
+  13,R
+  26,R,X
    4,R,J
    6,R,K
   21,R,U,X
@@ -996,8 +991,8 @@ endstunpause
   20,R,J
    9,R
   15,R,X
-  18,U,C
-  13,L,U,X
+  16,U,C
+  14,L,U,X
  145,R,C
   14,R,D,X
    1,R,J
@@ -1040,4 +1035,4 @@ endrepeat
   16,U,X
  135
 
-ChapterTime: 3:20.753(11809)
+ChapterTime: 3:20.277(11781)
