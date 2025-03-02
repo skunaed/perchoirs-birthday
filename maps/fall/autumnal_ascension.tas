@@ -1,4 +1,4 @@
-RecordCount: 5396
+RecordCount: 5622
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    1
@@ -287,8 +287,14 @@ EndStunPause
 
 #lvl_TRANSITION_CP2
    1,R,D
+#spinner cycle 2/3
+###
    1,R,J
  288,R,D,X
+###
+#   1,L,J
+# 289,R,D,X
+###
    4,R,J
    1,R,K
   11,R,X
@@ -325,48 +331,65 @@ EndStunPause
    6,R,J
   10,R
    2,R,J
-  24,R
+  20,R
+   1,R,D
+   3,R
   37,R,D
    1,R,J,G
   20,R
-   4,R,J
-  11,R
-  27,R,G
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   4,R,K,G
-  17,R
-   8,R,J
-   3,R,K,G
-  15,R
-   1,J
-  14
-  39,L,J
-  80
-  10,L
-   2
-   3,L
-   4,L,J
-   6,L
-   4,L,J
-  14,L
-   1,J,G
-   6
+   1,R,J
+  17,R,D
    1,R
-   1,J
-   8,R,J
-  14,R,G
-  15,U,G
+   2,L,D
+   1,G
+   1,J,G
+   1,L
+   2
+   1,L
+   2
+   1,L
+   1,R
+  22,R,U,G
+   2,U,G
+   2,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   9,R,K,G
+   1,R,K,G
+   1,R,J,G
    7,R
-   4,R,J
-  30,R
-  14,R,D
-   4,R,G
+   3,R,J
+   1
+   6,R
+   1,R,J
+   3,R
+   2,R,J
+   4,R
+   1
+   1,R
+   2,R,J
+   8,R
+   5,R,D
+   3,R,J
+   3,R,J
+   5,R
+#spinner cycle 2/3
+###
+#stunpause
+#   6,R,J
+#endstunpause
+#  16,R,J
+###
+   1,R,J
+stunpause
+   6,R,J
+endstunpause
+  15,R,J
+###
+   7,R,K
+   5,R
+   1,R,J
+  13,R,G
    1,R,J,G
   12
   19,R
@@ -394,7 +417,7 @@ EndStunPause
   34,R,J
   18,R,U,Z
 #spinner cycle
-   2
+   1
 #
   14,R,U,X
    1,R,J
@@ -576,7 +599,6 @@ endstunpause
    5,R,J
   19,R,D,X
    6,R,J
-
   11,R,K,G
    1,R,J,G
   23,R
@@ -1018,4 +1040,4 @@ endrepeat
   16,U,X
  135
 
-ChapterTime: 3:23.966(11998)
+ChapterTime: 3:20.753(11809)
