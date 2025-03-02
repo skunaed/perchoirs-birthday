@@ -1,3 +1,10 @@
+Set,CrouchDashMode,Press
+Set,GrabMode,Hold
+Set,Everest.UseKeyboardForTextInput,False
+Set,ScreenShake,Off
+Set,DisableFlashes,true
+Set,SpeedrunClock,2
+SelectCampaign, PerchoirsBirthday/0-Lobbies, HBD
 EnforceMaingame
 Unsafe
 Add 2
@@ -7,28 +14,6 @@ Add 1,J
 Add 94
 Add 1,J
 Add 61
-   1,D
-   1,J
-Skip
-  70
-Add 41
-repeat 3
-   1,R
-   1,F,90
-endrepeat
-   1,R
-   1,J
-repeat 3
-   1,L
-   1,F,270
-endrepeat
-   1,J
-   1,R
-   1,F,90
-   1,J
-   1,S
-  48
-   1,U
-   1,J
+   1,O
 Add 131
    1

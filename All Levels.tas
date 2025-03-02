@@ -1,7 +1,5 @@
 Read,StartFullCollabFile
 
-Read,LoadFallLobby
-
 Read,1-Fall,Start
 
 Read,LoadLobbyfromHeartside
