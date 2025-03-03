@@ -1,4 +1,4 @@
-RecordCount: 6098
+RecordCount: 6103
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    1
@@ -1030,12 +1030,12 @@ endrepeat
   14,R
    4,R,J
    9,R,K,G
-   7,R
+   7
   11
   15,J
   27,R,U
- 127,F,359.45
+ 126,F,360
   16,U,X
  135
 
-ChapterTime: 3:19.971(11763)
+ChapterTime: 3:19.954(11762)
