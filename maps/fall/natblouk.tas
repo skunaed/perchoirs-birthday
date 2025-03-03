@@ -1,7 +1,7 @@
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/NathanBirthday
    1
-#Start
 
+#Start
 Repeat 40
    1,J
    1,O
@@ -155,11 +155,18 @@ EndRepeat
   13,U,X
   21,R,J
   11,R
-   1,S
-   1,D,J
-  77,R,D
-   5,R,J
-  10,R,X
- 135,R
+repeat 27
+   1,O
+   1,J
+endrepeat
+   1
+   4,R,Z
+  20,R,J
+   4,X
+  26,L,D,X
+  16,L,J
+  30,L,K,G
+  66,L,D,X
 
-ChapterTime: 0:40.970(2410)
+
+ChapterTime: 0:40.732(2396)
