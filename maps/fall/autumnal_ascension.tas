@@ -1,4 +1,4 @@
-RecordCount: 6103
+RecordCount: 6122
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    1
@@ -784,7 +784,7 @@ endstunpause
   18,J
   15,U,X
 #spinner cycle
-   1
+   0
 #
   10,R
    6,R,Z
@@ -883,16 +883,12 @@ endstunpause
   17,R,U,X
   24,L
   15,U,C
+   2,L
   15,U,X
-   8,L,J,G
-   4,K,G
-   3,L,K
-   7,L
-   4,X
-  11,R,J
-   4,R
-  18,R,U,X
-  25,R,D
+   3,L
+  21,R,J
+  15,R,U,X
+  29,R,D
    8,R,D,X
 stunpause
    6,R,D
@@ -1038,4 +1034,4 @@ endrepeat
   16,U,X
  135
 
-ChapterTime: 3:19.954(11762)
+ChapterTime: 3:19.750(11750)
