@@ -1,4 +1,4 @@
-RecordCount: 5939
+RecordCount: 6098
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    1
@@ -402,13 +402,17 @@ endstunpause
 
 
 #lvl_zeamox
-  10,L,D,X
-  15,R,J
+  10,R,D,X
+   1,R,J
+   1,J
+  10,R,J
+   1,J
+   2,R,J
   15,R,D,X
   17,R,D,J
    1,R
-   4,R,J
-   5,J
+   5,R,J
+   2,J
   13,U,X
   25,R,J
   15,U,X
@@ -416,7 +420,7 @@ endstunpause
   34,R,J
   18,R,U,Z
 #spinner cycle
-   0
+   2
 #
   14,R,U,X
    1,R,J
@@ -428,22 +432,18 @@ endstunpause
   11,R,J
   18,R
   16,L,U,X
-   1,L,J,G
-   5,L
+   2,L,J,G
+   3,L
   13,L,Z
    1,R,J
    7,R
    1,R,J
    3,R
   21,R,D,X
-   2,R,J
+  28,R,J
   15,R,D,X
-  83,R
-   7,R,J
-   6,K,G
-   7,J,G
-   5
-   1,R
+  74,R
+   4
    5,R,U,Z
   40
 
@@ -453,18 +453,21 @@ stunpause
    3,R,U,Z
    3,L,K,G
 endstunpause
-   9,L,K
-   1,R,K
-   2,J,G
+   3,R,K
+   7,L,K
+   2,R,J,G
   17,D
-   7
+   2
+   5,R
    6,R,J,G
   15,R,D,X
-  14,R,J
+   7,J
+   7,R,J
    5,U,X
-   8,R,J
+   6,R,J
+   2,R
    2,R,K,G
-  30,R,D
+  29,R,D
    4,R,Z
    3,R,J
    4,R
@@ -475,7 +478,8 @@ endstunpause
 
 
 #lvl_renlei
-  30,D
+  27,D
+   3,R,D
    3,R,D
   13,R,D,X
    4,R,J
@@ -672,9 +676,7 @@ endstunpause
    1,R,J
    5,R,D
    1,D
-   2,R,D
-   1,R,D
-  18,R,D
+  21,R,D
    9,R,U,Z
    1,L
   11,J,G
@@ -702,26 +704,27 @@ endstunpause
   16,R,D,X
    3,R,J
   17,R,D,X
-  30,R,J
-  26,R,D
-   2,D
-  14,R,Z
    1,R,J
-   3,R
+   8,R,X
+   4,R,J
+  47,R
+   4,R,J
    1,R,K,G
-   9,R
-   1,R,J
-  12,R,U,X
-  15,R,J,G
-   3,R,K,G
+   1
    5,R
+   1,R,J
+   2,R
+  10,R,U,X
+  11,R,J,G
+   7,R
+   3,R,J
+   4,R
   40
 
 #lvl_typorium
-   6,R
-   2,R,J
-   4,J
-  10,J,G
+   7,R
+   6,R,J
+  10,R,J,G
   11,G
    1,R
    8,U,X
@@ -781,7 +784,7 @@ endstunpause
   18,J
   15,U,X
 #spinner cycle
-   0
+   1
 #
   10,R
    6,R,Z
@@ -1035,4 +1038,4 @@ endrepeat
   16,U,X
  135
 
-ChapterTime: 3:20.277(11781)
+ChapterTime: 3:19.971(11763)
