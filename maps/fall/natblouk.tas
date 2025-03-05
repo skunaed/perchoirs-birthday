@@ -23,16 +23,16 @@ EndRepeat
   40
 
 #lvl_2
-   5,R
+   6,R
    1,R,N
    1,R,J
    2,R
-  12,R,D,X
+  10,R,D,X
    1,R,J
-   2,R
+   4,R
   14,R,Z
-  25,R,J
-  11,U,Z
+  23,R,J
+  10,U,Z
   15,J
    2,R,J
   76,L,D
@@ -169,4 +169,4 @@ endrepeat
   66,L,D,X
 
 
-ChapterTime: 0:40.732(2396)
+ChapterTime: 0:40.698(2394)
