@@ -1,4 +1,4 @@
-RecordCount: 676
+RecordCount: 695
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/XandouilleBirthday
    1
@@ -225,10 +225,12 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/XandouilleBirthday
    7,R
    7,R,J
    5,R
-   2,R,J
+   1,R,J
   13,R
-   7,R,J
-  67,R,D
-  68,R,G
+   2,R,J
+  55,R
+  22,R,D
+  11,R
+  52
 
 ChapterTime: 0:26.639(1567)
