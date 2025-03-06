@@ -1,4 +1,4 @@
-RecordCount: 498
+RecordCount: 543
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
    1
@@ -116,20 +116,21 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
    1,L,J
    9,L
    1,J,G
-   4,L,J
-   6,R,J
-  44,R,U,G
-   1,R,J,G
+   5,L,J
+   1,R,J
+   2,J
+   8,R,G
+  36,R,U,G
+   6,J,G
+   3,R,J
    1,L,J
-   3,J
-   1,L,J
-   1,J
-   2,R,J
-   1,J
    1,K
   19,L,K
    1,L,J,G
-  16,L
+   1,L,K,G
+   5,L
+   1,L,J
+   6,L
   10,R,D,X
   12,R,J
   14,R,U,X
@@ -140,4 +141,4 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
   73
  148,U,X
 
-ChapterTime: 0:25.993(1529)
+ChapterTime: 0:25.908(1524)
