@@ -1,0 +1,20 @@
+console load PerchoirsBirthday/0-Lobbies/2-PerchoirsBirthday_JanMar 48 1064
+   1
+
+#Start
+  36
+
+#lvl_lobbymain1
+   4,R,C
+  13,R,J
+   3,R,K,G
+   1,R,J,G
+   3,L,J
+   1,R,K,G
+   1,R,J,G
+   9,R,D
+  30,D,X
+  33,L,D
+   1,N
+
+#0:01.581(93)
