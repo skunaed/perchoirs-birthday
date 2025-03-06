@@ -1,0 +1,70 @@
+# PerchoirsBirthday
+# https://gamebanana.com/mods/550424
+
+RecordCount: 85
+
+console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/RisingSunLightBirthday
+   1
+
+#Start
+ 190
+
+#lvl_1
+   9,R,J
+   9,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+   5,R,J
+  17,R
+  27,R,Z
+
+#lvl_2
+   9,R
+   1,J
+   6,R,J
+   2,J
+   1
+   1,L,K,G
+   1,L,J,G
+   1,K,G
+   2,L,K
+   1,R,K
+   1,L
+  15,L,J,G
+   1,K
+  29,L,K
+   5,R
+   1,R,J
+   1,R,K
+  12,R
+  25,R,Z
+
+#lvl_3
+   9,R
+   4,R,J
+  16,R,K,G
+  34,R,D,X
+  26,R,Z
+
+#lvl_4
+   9,R
+  10,R,J
+  13,R
+   1,R,J,G
+   8,R,K,G
+   6,R
+   1,J,G
+   4,R
+   1
+   7,L
+  33,L,J
+   1,L,G
+   8,L,J,G
+  14,L,Z
+  33,L,J
+  26,L,U,X
+   4,R,C
+ 135,R,D
+
+ChapterTime: 0:09.486(558)
