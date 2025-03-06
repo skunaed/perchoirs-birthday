@@ -1,7 +1,7 @@
 # PerchoirsBirthday
 # https://gamebanana.com/mods/550424
 
-RecordCount: 408
+RecordCount: 438
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
    1
@@ -103,10 +103,10 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
   12,L
   20,L,U,X
    4,L,J
-   8,L,K
-  10,L
+   7,L,K
+  11,L
   21,L,U,Z
-  15,R,D,G
+  13,R,D,G
    5,R,G
    1,R,J,G
    1,R,K,G
@@ -115,7 +115,7 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
   10,R,U,Z
    8,R,J
    8,R,K
-   9,K
+  10,K
   15,U,X
    1,L
    1,J,G
@@ -152,4 +152,4 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
   73
  148,U,X
 
-ChapterTime: 0:26.316(1548)
+ChapterTime: 0:26.299(1547)
