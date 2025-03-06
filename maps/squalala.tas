@@ -1,7 +1,4 @@
-# PerchoirsBirthday
-# https://gamebanana.com/mods/550424
-
-RecordCount: 438
+RecordCount: 498
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
    1
@@ -10,14 +7,13 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
  190
 
 #lvl_1
-  30,R,G
+   1,R,J
+  26,R,G
   10,U,G
    1,J,G
   10,R,Z
    8,R,J
-  10,R,K
-   1,K
-   2,R,K
+  12,R,K
    5,R,J,G
   18,R,X
    4,L,G
@@ -26,41 +22,36 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
    1,R,J,G
    1,R,K,G
   13,R,U,Z
-   4,R,J
-   3
-   1,R,K
-   2
-   2,R
-   1,J,G
-  10,R,J,G
-  10,L,J,G
-  17,U,G
-   1,L,J,G
-   1,L,K,G
-   1,L,J,G
-   5,L,K,G
-   1,K
-  10
-  15,L,J
-  11,U,X
+  12,J
+  21,R,U,X
+   4,L,J
+   1,L,K
+  13,L
+  19,L,Z
+   4,L,J
+  11,L,K
+  13,U,X
   79
   40
 
 #lvl_2
   72
-
-   3,R,J
+   1,R,J
    8,R,G
-   8,R,J,G
-  12,R
+   4,R,J,G
+   6,R,K,G
+   5,R
+   1,R,J
+   5,R
    1,L,J,G
-  13,L,K,G
-   7,L,Z
+  12,L,K,G
+   6,L,Z
    8,L,J
-   3,J
+   1,J
+   3,L,J
    4,L,K,G
-  10,L
-  17,L,X
+   9,L
+  16,L,X
   21,R,U,G
    1,R,J,G
    2,R,K,G
@@ -73,17 +64,15 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
    1,L,J
   10,L
    4
-
   10,R,Z
    4,R,J
    1,R,K
   14,K
    1,R,K
-   1,R,J,G
-   6,R
-   1,R,J,G
-   8,R,K,G
-   6,R,J,G
+   5,R,J,G
+   1,R
+  12,R,J,G
+   1,K,G
   10,R,X
    4,R,J
    1,R,K
@@ -96,18 +85,17 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
 
 #lvl_3
   72
-
   26,U,X
   10,L,C
-   5,L,J
-  12,L
+   7,L,J
+  10,L
   20,L,U,X
    4,L,J
-   7,L,K
-  11,L
-  21,L,U,Z
-  13,R,D,G
-   5,R,G
+   3,L,K
+  15,L
+  21,L,U,X
+  13,R,U,G
+   7,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
@@ -115,7 +103,7 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
   10,R,U,Z
    8,R,J
    8,R,K
-  10,K
+   9,K
   15,U,X
    1,L
    1,J,G
@@ -129,8 +117,8 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
    9,L
    1,J,G
    4,L,J
-   9,R,J
-  40,R,U,G
+   6,R,J
+  44,R,U,G
    1,R,J,G
    1,L,J
    3,J
@@ -152,4 +140,4 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/SqualalaBirthday
   73
  148,U,X
 
-ChapterTime: 0:26.299(1547)
+ChapterTime: 0:25.993(1529)
