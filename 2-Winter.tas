@@ -76,3 +76,27 @@ Read,EnterLevel,Start
 Read,maps/winter/shirowee,Start
    1,O
   32
+
+Read,lobby/winter/12-15,Start
+Read,EnterLevel,Start
+Read,maps/winter/theo2364,Start
+   1,O
+  32
+
+Read,lobby/winter/15-14,Start
+Read,EnterLevel,Start
+Read,maps/winter/squalala,Start
+   1,O
+  32
+
+Read,lobby/winter/14-13,Start
+Read,EnterLevel,Start
+Read,maps/winter/redboule,Start
+   1,O
+  32
+
+Read,lobby/winter/13-16,Start
+Read,EnterLevel,Start
+Read,maps/winter/risingsunlight,Start
+   1,O
+  32
