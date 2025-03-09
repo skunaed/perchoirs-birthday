@@ -1,4 +1,4 @@
-RecordCount: 6231
+RecordCount: 6248
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/ZZ-HeartSide
    1
@@ -965,16 +965,14 @@ endstunpause
   34,R
   15,R,U,X
    5,R,D
-  44,R,D,G
-   4,R,G
-   2,R,D,G
+  20,R,D,G
+   2,D,G
+  27,R,D,G
    1,R,G
    1,R
-   5,L,Z
+  10,R,Z
    1,R,J
-   6,R
-   1,R,J
-   2,R
+   4,R
   14,R,D,X
    1,R,J
   10,R,D,X
@@ -1039,4 +1037,4 @@ endrepeat
   16,U,X
  135
 
-ChapterTime: 3:19.512(11736)
+ChapterTime: 3:19.495(11735)
