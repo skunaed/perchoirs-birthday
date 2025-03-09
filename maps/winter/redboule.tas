@@ -1,4 +1,4 @@
-RecordCount: 1913
+RecordCount: 1917
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/RedbouleBirthday
    1
@@ -80,8 +80,7 @@ EndRepeat
   40
 
 #lvl_2
-   4,R,J
-  14,R,X
+  14,R,J
    9,R
   18,R,U,X
   10
@@ -93,7 +92,8 @@ EndRepeat
   30,L,U,X
    2
    1,R,J
-   2,J
+   1,J
+   1
    9,R,Z
   12,R,J
   13,R
@@ -140,4 +140,4 @@ EndRepeat
   55,L,J
   24,L,D,X
 
-ChapterTime: 0:32.606(1918)
+ChapterTime: 0:32.589(1917)
