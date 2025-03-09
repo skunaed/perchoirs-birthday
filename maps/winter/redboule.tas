@@ -1,4 +1,4 @@
-RecordCount: 1661
+RecordCount: 1913
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/RedbouleBirthday
    1
@@ -14,20 +14,25 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/RedbouleBirthday
   12,U,X
   24,R,J
   13,R
-   9,L,Z
-   6,L,J
-  11,L
-  24,L,J
-  15,L,D,X
-  38
+   8,L,Z
+   5,L,J
+  12,L
+   7,L,J
+   8,L
+  15,L,Z
+   2,L,G
+   1,J,G
+  23,L
+  20
    7,R,J
-  22,R
-  41,L
+  20,R
+  43,L
    3
    1,J
    8
    2,J
-   5
+   2
+   3,L
   14,L,D,X
    1,R,J
    7,R,D,X
@@ -40,16 +45,15 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/RedbouleBirthday
  198
    6,R,J
    9,R,G
-Repeat, 70
+Repeat, 63
    1
    1,G
 EndRepeat
-   1
-   9,L,K
-   6,L
-   1,L,J
-  29,L
-   2,L,D
+  48,L,K
+   2
+   3,D
+   1,L
+   2
   14,L,Z
    1,R,J
    8,R,D,X
@@ -61,11 +65,11 @@ EndRepeat
    1,R,J
    5,R,D,X
   17,R,J,G
- 256,R,K,G
+ 254,R,K,G
+   3,K,G
    1,L
   15,R,D,X
-  10,R
-   2
+  12,R
    4,R,J
    5,R,D,X
    4,R,J,G
@@ -81,8 +85,7 @@ EndRepeat
    9,R
   18,R,U,X
   10
-   2,R
-   2
+   4,R
   11,R,D,X
   22,R,J
   11,R,U,X
@@ -90,52 +93,51 @@ EndRepeat
   30,L,U,X
    2
    1,R,J
-   5,J
-  19,R
-  30,L,U,X
-   1,L,J
-  22,L
-   4
-  14,R,D,X
-  34,R,J
-  22,R,Z
-  17,R,D,X
-   9,R
+   2,J
+   9,R,Z
+  12,R,J
+  13,R
+  32,R,Z
+  16,R,X
+   4,R,Z
    1,R,J
-  14,R
-  14,R,X
-  43,R,J
-   7,R,D
-  12,R,X
-  28,L,J
-  48,L,X
-  12,L,C
+   7,R
+  10,R,J
+  30,R,D
+  23,R,X
+  14,L,C
+  16,L,J
+  55,L,Z
+  13,L,C
    1,J
   14
    1,R,J
-   2,R
-   6
+   5,R
+   3
    2,J
-   2
-   3,R
+   3
+   2,R
   14,L,Z
    1,R,J
    5,R,D,X
    1,R,J,G
    4
    9,R
-   2,R,J
-  17,R,D,X
+   3,R,J
+  18,R,D,X
    1,R,J
    6,R,D,X
   17,R,J,G
- 160,R,U,K,G
+ 162,R,U,K,G
    1,L
   15,R,D,X
   23,R
    4,X
-  36,L,D,X
-  37,L,J
-  62,L,D,X
+  36,R,D,X
+   4,L,Z
+   1,L,J
+  18,L
+  55,L,J
+  24,L,D,X
 
-ChapterTime: 0:34.289(2017)
+ChapterTime: 0:32.606(1918)
