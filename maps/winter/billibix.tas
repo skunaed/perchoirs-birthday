@@ -1,19 +1,15 @@
-# PerchoirsBirthday
-# https://gamebanana.com/mods/550424
-
-RecordCount: 517
+RecordCount: 687
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/BillibixBirthday
    1
 
 #Start
- 110
+repeat 37
+   1,J
+   1,O
+EndRepeat
 
 #lvl_1
-   1,S
-   1,D,J
-  34
-
   26,U,X
   23,U,C
   26,L
@@ -41,8 +37,6 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/BillibixBirthday
    9,R,D,X
    1,R,J
    4,R,D
-
-
    1,D
    5,R,D
    6,R,J
@@ -73,70 +67,62 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/BillibixBirthday
    5,L
   15,U,C
   14,U,X
-  18
-   3,R
+  21
   16,L,U,X
-   7,R
-  16,R
+  23,R
   11,U,Z
-  52,R
-   7
-  14,L
-  15,U,X
-   2,L
-   1
-  26,R,D
-  28,R,X
-  75,R,C
-   1
+  68,R
+  73,R,X
+   4
    1,R
-  11,D,X
-  13,R
-  14
-   9,D,X
+   8,D,C
+  26,R
+  10,D,X
   51,R
   32,R,U,X
   13,R,U,C
   17,L
   16,R,U,X
-  25,L
-  21,L,U,X
+  24,L
+  23,L,U,X
 
 #lvl_4
-   4,R
+   2
    4,R,Z
    1,R,J
-   7,R
+   6,R
    1,R,J
-   7,R
-  32,R,X
-  40,R,Z
-  14
+   8,R
+  31,R,X
+  40,R,C
+  14,R
   15,L,X
   15,L,C
-  28,R
-  15,L,D,X
-   2,D
-  28,L,D,C
-  17,L,D,X
-   3,L,J
-  28,L
-  32,U,Z
-  44,R,C
-   3
-   1
-  26,U,X
-  12,L
-  15,R,U,X
-  16,U,C
-   6
-   5,L
+  20
    8,R
-  28,L,Z
+  17,L,D,X
+  28,L,D,C
+  15,L,D,X
+   3,L,J
+   5,L
+   1,L,J
+   2,L
+   2,L,J
+  18,L
+  31,U,Z
+  19,R,C
+  30
+  36,U,X
+  15,U,C
+  14,U,X
+  19,L
+  31,L,Z
   15,D,C
+   3,L,D
   10,D
-  12,R,D
-  16,R,Z
+   8
+   2,R
+  15,R,Z
   15,R,D,X
   25,R
  241
@@ -146,4 +132,4 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/BillibixBirthday
   70
  150,U,X
 
-ChapterTime: 0:35.377(2081)
+ChapterTime: 0:34.255(2015)
