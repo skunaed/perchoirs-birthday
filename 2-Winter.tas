@@ -100,3 +100,9 @@ Read,EnterLevel,Start
 Read,maps/winter/risingsunlight,Start
    1,O
   32
+
+Read,lobby/winter/16-17,Start
+Read,EnterLevel,Start
+Read,maps/winter/billibix,Start
+   1,O
+  32
