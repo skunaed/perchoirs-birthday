@@ -1,4 +1,4 @@
-RecordCount: 639
+RecordCount: 678
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CookieBirthday
    1
@@ -115,7 +115,7 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CookieBirthday
    9,R
   16,L,D,C
   17,L,U,X
-  66,R,U,C
+  65,R,U,C
   14,U,X
  310
 
@@ -144,13 +144,18 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CookieBirthday
    1,L,J,G
    1,L,K,G
   22,L,D
-  32,R,X
-  38,R,U,C
-   5,L,J,G
-   6,R,J
-   1,R,K,G
-  16,R,J,G
-   7,K,G
+  26,R,X
+  15,R,U,C
+   6,D
+  17,R,D
+   5,R,J,G
+   1,J
+   3,R,J
+   1,J
+   9,R
+   1,R,J,G
+  12,R,K,G
+   8,R,J,G
   47,U,X
   11,L,C
    1,R,J
@@ -169,4 +174,4 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CookieBirthday
   34,U,C
  135
 
-ChapterTime: 0:40.715(2395)
+ChapterTime: 0:40.681(2393)
