@@ -106,3 +106,15 @@ Read,EnterLevel,Start
 Read,maps/winter/billibix,Start
    1,O
   32
+
+Read,lobby/winter/17-18,Start
+Read,EnterLevel,Start
+Read,maps/winter/yamy,Start
+   1,O
+  32
+
+Read,lobby/winter/18-19,Start
+Read,EnterLevel,Start
+Read,maps/winter/cookie,Start
+   1,O
+  32
