@@ -1,4 +1,4 @@
-RecordCount: 965
+RecordCount: 980
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CookieBirthday
    1
@@ -80,11 +80,12 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CookieBirthday
    1,L,J,G
    8,J
    9,L,J
-  10,L,D
-   5,D
+   4,L,D
+  10,R,D
   12,R,D,X
-   1,L,J,G
-  34,R,J
+   2,L,J,G
+  20,R,J
+  13,R
   60,L,X
    1,L,J,G
    8,L,K,G
@@ -152,4 +153,4 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/CookieBirthday
   34,U,C
  135
 
-ChapterTime: 0:39.338(2314)
+ChapterTime: 0:39.321(2313)
