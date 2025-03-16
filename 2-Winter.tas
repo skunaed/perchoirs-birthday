@@ -108,7 +108,7 @@ Read,maps/winter/billibix,Start
   32
 
 Read,lobby/winter/17-18,Start
-Read,EnterLevel,Start
+Read,EnterPostcard,Start
 Read,maps/winter/yamy,Start
    1,O
   32
