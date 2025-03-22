@@ -1,4 +1,4 @@
-RecordCount: 824
+RecordCount: 879
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/KazzersBirthday
    1
@@ -124,19 +124,29 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/KazzersBirthday
   22,R,C
    4,R,J
    6,R,K
-  30,R
-  14,R,X
+  38,R
+  12,R,U,X
   40
 
 #lvl_4
-   1,S
-   1,D,J
-  69,O
+  15,R
+  16,R,U,Z
+   1,L
+   1,J,G
+   5,R
+   2,R,J
+   2,J
+   1,L,K,G
+   4,K
+   3,L,K
+   1,J,G
+   6,L
+   1,R
   11,R,J
-  20,R,U,X
+  16,R,U,X
    8,R,J
-  11,R,K
-  21,U,X
+   7,R,K
+  25,U,X
    6,L
   15,L,X
    4,R,G
@@ -173,4 +183,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/KazzersBirthday
   14,R,U,X
  135,R,D
 
-ChapterTime: 0:24.565(1445)
+ChapterTime: 0:24.327(1431)
