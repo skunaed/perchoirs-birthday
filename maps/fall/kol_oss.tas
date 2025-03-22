@@ -187,18 +187,27 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/Kol_OssBirthday
    4,R,J
    3,R,K,G
   16,R,D
-  18,R,J
+   6,R,J
+   7,R
+   2,R,J
+   3,R
   40
 
 #lvl_5
-  25,R
+  12,R
+   2,R,D
+   9,R,J
+   7,R
+   3,R,J
+   8,R
+   4
   11,R,J
-  24,R,D
-   2,J
-   8,R,J
-  16,R,G
-   6
-   6,G
+   5,R
+   1,R,J
+   2,R
+  17,R,J
+  10,R,G
+   3,U,G
    1,R,J,G
    1,R,K,G
    2,R,J,G
@@ -222,4 +231,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/Kol_OssBirthday
   10,U,X
  135
 
-ChapterTime: 0:30.617(1801)
+ChapterTime: 0:30.549(1797)
