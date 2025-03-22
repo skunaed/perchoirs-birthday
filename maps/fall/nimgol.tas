@@ -99,14 +99,14 @@ endrepeat
    3
   15,U,X
   14,R,U,C
-  19,L
+  25,L
   15,U,X
-  15,L,U,C
-  23,L,D
-  22
-  12,U,X
-   4,R,J
-  15,L,U,C
+  24,L,C
+  14,R
+  16,L,U,X
+  17,U,C
+  11,L,J,G
+   2
   15,U,X
   15,L,U,C
   15,U,X
@@ -130,4 +130,4 @@ endrepeat
   26,L
   49,L,J
 
-ChapterTime: 0:27.761(1633)
+ChapterTime: 0:27.744(1632)
