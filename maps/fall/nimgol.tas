@@ -25,28 +25,31 @@ endrepeat
   12,L,U,C
   22,R
   15,U,Z
-  12,R,J
-  15,R,U,X
-  18,L
-  19,L,U,X
-  16,U,Z
+  11,R,J
+  22,R,U,X
   11,L
   15,U,X
-  15,L,C
-  12
+  26,R,U,C
+   4,L,Z
+   2,L,J
+   4,L
+   3,L,J
+   2,L
+  16,L,U,Z
+  10,L
   15,U,X
   14,U,C
   40
 
 #lvl_3
-   6
+   5
    9,J
   15,U,X
-  34,R,C
+  33,R,C
    8,R
    3
   15,R,U,X
-  16,R,C
+  17,R,C
   15,U,X
    2,L
   24,R,U,C
@@ -77,16 +80,15 @@ endrepeat
   20,R,D,X
   15,U,C
   20,R,U,X
-  23,L
-  19,L,C
+  24,L
+  18,L,C
   30,L,Z
-  12,L
+  11,L
   15,L,X
-  27,L,C
+  25,L,C
    5,L,J
   15,U,C
-  14,U,X
-   1,R,J
+  15,U,X
   40
 
 #lvl_5
@@ -130,4 +132,4 @@ endrepeat
   26,L
   49,L,J
 
-ChapterTime: 0:27.744(1632)
+ChapterTime: 0:27.659(1627)
