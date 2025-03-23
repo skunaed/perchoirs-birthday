@@ -41,8 +41,7 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/Kol_OssBirthday
    6,J,G
    2
   22,R
-   2,R,D
-   5,R,D
+   7,R,D
   18,R,J
   12,R
    1,R,J,G
@@ -90,7 +89,6 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/Kol_OssBirthday
    1,R
    1,R,G
    1,R
-
    2,R,G
    3,R,D,G
    1,R,J,G
@@ -111,21 +109,19 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/Kol_OssBirthday
    3
   11,R
    2,R,J
-  13,R,G
+  12,R,G
+   2,U,G
    1,R,J,G
-   1,R
    1,R,K,G
    1,R,J,G
-  31,R,D
-  15,R
+  32,R,D
+  14,R
    3,R,J
-  16,R
+  15,R
    7,R,J
    5,R
    2,R,J
-  11,R
-   1
-   6,R
+  18,R
    1,R,J,G
    1,R,K,G
   11,R
@@ -231,4 +227,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/Kol_OssBirthday
   10,U,X
  135
 
-ChapterTime: 0:30.549(1797)
+ChapterTime: 0:30.532(1796)
