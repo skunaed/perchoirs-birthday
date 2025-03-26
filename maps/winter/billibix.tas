@@ -1,4 +1,4 @@
-RecordCount: 783
+RecordCount: 889
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/BillibixBirthday
    1
@@ -67,21 +67,23 @@ EndRepeat
    5,L
   15,U,C
   14,U,X
-  21
+  17
+   3,L
   16,L,U,X
-  23,R
+  22,R
   11,U,Z
-  68,R
-  73,R,X
-   4
-   1,R
-   8,D,C
-  26,R
+  69,R
+  72,R,X
+   6
+   7,D,C
+  27,R
   10,D,X
-  48,R
+  45,R,D
+   2,D
+   2,R,D
   16,R,U,X
-  20
-  18,L
+  17
+  14,L
   14,U,C
   24,L
   24,L,U,X
@@ -89,17 +91,16 @@ EndRepeat
 #lvl_4
    4,R,Z
    1,R,J
-   8,R
+   7,R
    1,R,J
-   5,R
-   2,R,J
-  30,R,X
+   6,R
+  32,R,X
   40,R,C
   14,R
   15,L,X
   15,L,C
-  20
-   8,R
+  16
+  11,R
   17,L,D,X
   28,L,D,C
   15,L,D,X
@@ -112,21 +113,18 @@ EndRepeat
    2
    2
   31,U,Z
-  15,R,C
-  36,R
+  16,R,C
+   1
+  34,R
   36,U,X
   15,U,C
   14,U,X
   19,L
-  30,L,Z
-  15,D,C
-   5,L,D
-   8,D
-   8
-   2,R
+  29,L,Z
+  27,D,C
+  11,R
   15,R,Z
-  15,R,D,X
-  25,R
+  37,R,D,X
  241
   40
 
@@ -134,4 +132,4 @@ EndRepeat
   70
  150,U,X
 
-ChapterTime: 0:34.187(2011)
+ChapterTime: 0:33.983(1999)
