@@ -120,7 +120,7 @@ Read,maps/winter/cookie,Start
   32
 
 Read,lobby/winter/20-19,Start
-Read,EnterLevel,Start
+Read,EnterPostcard,Start
 Read,maps/winter/noahdcoco,Start
    1,O
   32
