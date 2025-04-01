@@ -1,4 +1,4 @@
-RecordCount: 686
+RecordCount: 707
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/TeuyoBirthday
    1
@@ -227,14 +227,11 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/TeuyoBirthday
   12,R,K
   38,R,J
   30,R,U,X
-   1,L
-   6,R,U,C
-  21,L
-  15,L,U,Z
-   9,R
-  10,R,X
-   7,R,J
-  11,U,X
- 135,R,D
+  19,L
+  15,R,U,Z
+   9,L,J,G
+   8,L
+  14,U,X
+ 135,L,D
 
-ChapterTime: 0:47.413(2789)
+ChapterTime: 0:47.260(2780)
