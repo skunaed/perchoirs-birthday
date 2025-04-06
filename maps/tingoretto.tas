@@ -1,4 +1,4 @@
-RecordCount: 142
+RecordCount: 158
 
 console load PerchoirsBirthday/3-PerchoirsBirthday_AprJun/TingorettoBirthday
    1
@@ -28,13 +28,14 @@ console load PerchoirsBirthday/3-PerchoirsBirthday_AprJun/TingorettoBirthday
    5,L,X
    1,R,J
    1,J
-   6,R,J
-  11,R
-  15,R,U,C
-  13,U,X
- 127
+  12,R,J
+   5,R
+   3,R,J
+  15,R,U,Z
+   8,U,X
+ 128
   15,U,X
  135,L,D
 
 
-ChapterTime: 0:08.840(520)
+ChapterTime: 0:08.823(519)
