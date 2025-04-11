@@ -114,7 +114,7 @@ Read,maps/winter/yamy,Start
   32
 
 Read,lobby/winter/18-21,Start
-Read,EnterPostcard,Start
+Read,EnterLevel,Start
 Read,maps/winter/teuyo,Start
    1,O
   32
