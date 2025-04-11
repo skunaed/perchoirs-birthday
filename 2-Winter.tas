@@ -113,7 +113,13 @@ Read,maps/winter/yamy,Start
    1,O
   32
 
-Read,lobby/winter/18-20,Start
+Read,lobby/winter/18-21,Start
+Read,EnterPostcard,Start
+Read,maps/winter/teuyo,Start
+   1,O
+  32
+
+Read,lobby/winter/21-20,Start
 Read,EnterLevel,Start
 Read,maps/winter/cookie,Start
    1,O
@@ -124,3 +130,11 @@ Read,EnterPostcard,Start
 Read,maps/winter/noahdcoco,Start
    1,O
   32
+
+Read,lobby/fall/19-22,Start
+Read,EnterLevel,Start
+Read,maps/fall/wintry_walk,Start
+  61
+   1,O
+
+FileTime:

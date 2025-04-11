@@ -1,0 +1,41 @@
+console hearts 17
+console load PerchoirsBirthday/0-Lobbies/2-PerchoirsBirthday_JanMar 192 1432
+console hearts 18
+   1
+
+#Start
+  36
+
+#lvl_lobbymain1
+  12,R,J
+   1,K,G
+   2
+  15,U,X
+   9,R,Z
+   1,R,J
+   6,R
+   4,R,J
+   5,R
+   1,R,J
+   9,R
+  14,R,Z
+   3,R,J
+  15,R,D,X
+  15,D
+  29,L,D
+  14,L,D,X
+   1,L,J
+   6,L,D,X
+   1,S
+   1,D,J
+  34
+  12,L
+  13,D
+   6,L,D
+   1,L,G
+   4,L,J,G
+  15,L,D,X
+  18,L,D
+   1,N
+
+#0:04.199(247)

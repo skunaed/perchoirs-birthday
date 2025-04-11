@@ -1,0 +1,41 @@
+RecordCount: 158
+
+console load PerchoirsBirthday/3-PerchoirsBirthday_AprJun/TingorettoBirthday
+   1
+
+#Start
+ 190
+
+#lvl_1 (0)
+   3,L,J
+  14,U,X
+  38,L,U,C
+   4,L,Z
+   1,L,J
+   7,L
+  11,L,J
+  40
+
+#lvl_2
+   5,R,X
+  40
+
+#lvl_1 (1)
+   1,S
+   1,D,J
+  69,O
+   2,L,J
+   5,L,X
+   1,R,J
+   1,J
+  12,R,J
+   5,R
+   3,R,J
+  15,R,U,Z
+   8,U,X
+ 128
+  15,U,X
+ 135,L,D
+
+
+ChapterTime: 0:08.823(519)
