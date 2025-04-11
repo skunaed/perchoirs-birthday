@@ -131,9 +131,9 @@ Read,maps/winter/noahdcoco,Start
    1,O
   32
 
-Read,lobby/fall/19-22,Start
+Read,lobby/winter/19-22,Start
 Read,EnterLevel,Start
-Read,maps/fall/wintry_walk,Start
+Read,maps/winter/wintry_walk,Start
   61
    1,O
 
