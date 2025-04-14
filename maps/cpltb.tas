@@ -1,0 +1,91 @@
+RecordCount: 317
+
+console load PerchoirsBirthday/3-PerchoirsBirthday_AprJun/CPLTBBirthday
+   1
+
+#Start
+  36
+
+#lvl_1
+  11,L,Z
+   1,R,J
+   3
+   4,R
+  11,R,J
+   2,R
+  14,R,U,Z
+   1,R,J,G
+   1,L,J
+   1,R,K,G
+   6,K
+   5,R,K
+   3,R
+   2,R,J,G
+   7,R
+   4,R,Z
+   1,R,J
+   7,R
+  28,R,J
+  14,U,Z
+   6,J
+   6
+   9,R,D,X
+   1,L,J
+   7,L
+   8,R,J
+  19,U,X
+   6,R
+   6,L,Z
+   1,R,J
+   6,R
+  13,R,D,J
+   2,R,K,G
+   6,R
+   7,U,X
+  43,L
+  15,U,X
+  17,L,G
+   3,L,J
+  37
+  11,L,J
+   7,L
+  25,U,X
+   2,J
+   9,L,J
+  14,R,U,X
+  15,R,J,G
+  48,L
+  10,L,Z
+   1,R,J
+   1
+   6,R
+  20,R,J
+  16,U,X
+  12,L,J,G
+   8,K,G
+   1,J,G
+   6,L
+   1,R
+   1,J
+   6,R,J
+  15,U,X
+  18,R,U,C
+   1,R,J,G
+  39,R,D
+ 144
+  40
+
+#lvl_2
+  73
+   4,L,Z
+   1,L,J
+   7,L
+   3,L,J
+  12,U,X
+repeat 67
+   1,L
+   1,R
+endrepeat
+   1
+
+ChapterTime: 0:16.728(984)
