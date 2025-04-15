@@ -1,4 +1,4 @@
-RecordCount: 317
+RecordCount: 424
 
 console load PerchoirsBirthday/3-PerchoirsBirthday_AprJun/CPLTBBirthday
    1
@@ -22,19 +22,21 @@ console load PerchoirsBirthday/3-PerchoirsBirthday_AprJun/CPLTBBirthday
    3,R
    2,R,J,G
    7,R
-   4,R,Z
-   1,R,J
-   7,R
-  28,R,J
-  14,U,Z
-   6,J
-   6
-   9,R,D,X
-   1,L,J
-   7,L
    8,R,J
-  19,U,X
-   6,R
+   3,J
+   2
+  27,U,Z
+   1,J
+  10
+   2,L
+   2,L
+   5,L,Z
+   1,R,J
+   4,R
+   4,R,J
+   4,R
+  12
+   3,J
    6,L,Z
    1,R,J
    6,R
@@ -66,10 +68,11 @@ console load PerchoirsBirthday/3-PerchoirsBirthday_AprJun/CPLTBBirthday
    1,J,G
    6,L
    1,R
-   1,J
-   6,R,J
-  15,U,X
-  18,R,U,C
+   1,R,J
+   4,J
+   2
+  16,U,X
+  16,R,U,C
    1,R,J,G
   39,R,D
  144
@@ -88,4 +91,4 @@ repeat 67
 endrepeat
    1
 
-ChapterTime: 0:16.728(984)
+ChapterTime: 0:16.388(964)
