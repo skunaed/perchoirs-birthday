@@ -1,4 +1,4 @@
-RecordCount: 4777
+RecordCount: 4939
 
 Set, DebugMode, true
 console clrsav
@@ -53,7 +53,7 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ZZ-HeartSide
    7,R,K,G
   24,R,D
    1,R,J
-   5
+   5,R
    1,R,J
   12,R
    1,R,J
@@ -101,41 +101,43 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ZZ-HeartSide
    9,R
    9,R,J
    5,R
-   6,R,J
-   3,R
-   5
-  15,R,Z
-  14,D
-  26,R,J,G
-  15,R,Z
-  15,R,X
- 101,R,D
+   4,R,J
+  19,R
+   8,R,X
+  15,R,J,G
+  15,U,X
+   2
+   7,R,X
+   1,R,J,G
+ 117,R,D
 
 #lvl_vanou
    1,S
    1,D,J
-  34,O
+  33,O
    6,J
   19,J,G
   12,X,G
   11,L,X,G
    1,R
   39,L,U,X
-   2,L,J
+   1,L,J
    8,L,K
-  14,L,D
-  21,R,D
+   5,L
+   3,L,J
+   3,L,D
+  25,R,D
   32,R,U,Z
   14,U,X
   27,G
-   4,X,G
-  15,R,G
+  11,X,G
+   7,R,G
    4,L
   27,R,D,X
    1,R,J
-   9,R,K
-   7,R
-  34,R,X
+   7,R,K
+   9,R
+  33,R,X
    1,R,J
    7,R,K
   29,R,K,G
@@ -174,40 +176,33 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ZZ-HeartSide
    1,U,J
 SaveAndQuitReenter
   36
-  10,R,Z
+  14,R,Z
    1,R,J
-   4,R
-  13,R,D,X
+  14,R,D,X
    4,R,J
    1,R,K
   14,R,U,X
    4,R,J
    1,R,K
-  21,R,D,X
-   7,R,J
+  20,R,D,X
+   5,R,J
+   1,R
   19,R,X
    4,R,J
+   1,R,K
+  15,R,U,X
+   4,R,J
+  15,R,D,X
+   4,R,J
    2,R,K
-  15,R,X
+  12,R,D,X
    4,R,J
-   1,R,K
-  14,R,X
-   4,R,J
-   1,R,K
-  13,R,U,X
-   4,R,J
-   1,R,K
-  12,R,X
-   4,L,J
-   2,L,K
-  11,L,X
+   6,R,K
+  19,R,U,X
    4,R,J
    3,R,K
-  18,R,X
-   4,R,J
-   1,R,K
-   1,R
-  74,R,D,X
+  15,R,D,X
+  67,R
 
 #lvl_cankyre
    2,R,J
@@ -962,7 +957,7 @@ SaveAndQuitReenter
 
 #lvl_risingsunlight
 #spinner cycle
-   2
+   1
 #
    4,R,C
    2,R,J
@@ -1535,4 +1530,4 @@ endstunpause
    7,R
   25,U,X
 
-ChapterTime: 4:08.591(14623)
+ChapterTime: 4:08.132(14596)
