@@ -5,3 +5,20 @@ console load PerchoirsBirthday/0-Lobbies/3-PerchoirsBirthday_AprJun
    1
 
 #Start
+Read,lobby/spring/0-1,Start
+Read,EnterLevel,Start
+Read,maps/spring/tingoretto,Start
+   1,O
+  32
+
+Read,lobby/spring/1-2,Start
+Read,EnterLevel,Start
+Read,maps/spring/riblox,Start
+   1,O
+  32
+
+Read,lobby/spring/2-3,Start
+Read,EnterLevel,Start
+Read,maps/spring/cpltb,Start
+   1,O
+  32
