@@ -1,4 +1,4 @@
-RecordCount: 5749
+RecordCount: 5986
 
 Set, DebugMode, true
 console clrsav
@@ -452,19 +452,14 @@ SaveAndQuitReenter
    4,R,J
   14,R,K
   16,R,D,X
-   8,L,J
-   1,R,K
-  12,L,K
-  24,U,X
-  11,L
-  21,R,U,X
-   4,R,J
-  13,R,X
-   4,L,J
-   5,L,K
-   1,L
-  15,L,K
-  19,U,X
+   8,J
+  13,K
+  30,U,X
+   9,R,D,C
+   1,L,J
+   7,L
+  15,L,J
+  29,U,X
    7,R,Z
    1,R,J
    7,R
@@ -475,15 +470,14 @@ SaveAndQuitReenter
    1,L,J
    9,R,J
   15,U,X
-  16,R
+  15,R
   10,R,X
    4,L,J
-  14,L,K
-  23,R,U,X
-  12,R,J
-  15,R,U,X
-   9,R
-  11,R,Z
+   7,L,K
+  18,U,X
+  13,R
+  24,R,U,X
+  12,R,Z
    1,L,J
    7,L
   12,R,J
@@ -492,20 +486,18 @@ SaveAndQuitReenter
    4,L,K
   10,L,X
    4,R,J
-  20,R,K
-  16,R,U,X
+   8,R,K
+   9,R
+  19,R,U,X
    4,R,J
    1,R,K
    6,R,D,X
    8,R,J
    4,R
    7,R,J
-   6,R,D,X
-   1,R,J
-   7,R
-   1,R,J
-   4,R
   14,R,D,X
+   4,R,J
+  13,R,D,X
    5,L,J
    5,L,Z
    8,L,J
@@ -539,20 +531,13 @@ SaveAndQuitReenter
    1
   26,L,J
    1,J
-   1,K,G
-   1,R,K
-   1,L,K
-  27,R,J
-   1,R,K,G
-   4,L,K
-   2,R,K
-   1,R
-   2,R,J,G
-   1,R
-   1,J,G
-   5,R
+  27,R,K
+   5,R,J,G
    1
-   1,L
+   6,J,G
+   1
+   2,R,K,G
+   7,R
   10,R,D,X
    7,L,J
    1,L,K,G
@@ -688,10 +673,8 @@ SaveAndQuitReenter
   11,R,J
   23,R,Z
    9,L
-   2,R
-   1,R
-   2,R
-  14,R,V
+   5,R
+  14,R,Z
    1,L,J
   18,L,D,X
    2,L,J
@@ -739,10 +722,11 @@ SaveAndQuitReenter
   22,D
   16,D,X
   15,L,Z
-  26,R
+  23,R
+   3
   10,R,D,X
-  37,L,J
- 168,U,X
+  36,L,J
+ 167,U,X
 
 #lvl_ampheur
   13
@@ -782,10 +766,11 @@ SaveAndQuitReenter
    1,R,J
    7,R
   22,R,J
-   1,J
-   6,R
-  15,U,X
-  32
+   2,R
+  15,R,U,X
+  20
+   1,R
+  12
 
 #lvl_theo
    2,R,D
@@ -800,9 +785,9 @@ SaveAndQuitReenter
   11,R,D,X
    1,R,J
    7,R
-  29,R,J
-  14,U,X
-   6,L,J
+  18,R,J
+  15,R,U,X
+  11,J
    5,L,Z
    1,R,J
    7,R
@@ -949,7 +934,7 @@ SaveAndQuitReenter
 
 #lvl_risingsunlight
 #spinner cycle
-   0
+   2
 #
    4,R,C
    2,R,J
@@ -1382,40 +1367,36 @@ endstunpause
    1,R,J
    7,R
    6,R,J
-   1,R
-   3,R
-  11,R
-  19,R,U,X
-   6,R,D,C
-  10,R,Z
+  15,R
+  25,R,U,X
+   7,L,Z
    1,R,J
-   4,R
-  18,R,D,X
-  22,R,J
+   7,R
+   7,R,J
+   7,R
+   1,R,J
+  10,R
   14,R,U,X
-   7,R,J,G
-   1,R,K,G
-   2,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-  12,J
-  10,R,Z
+   1,J,G
+   3,R
+   6
+   1,J
+   4
+   4,L,Z
    1,L,J
-   4,L
-  17,L,D,X
-  20,L,J
    6,L
-  22,L,J
-  14,L,U,X
+  18,L,J
+   7,L
+  29,L,J
+  20,L,U,X
    1,L,J,G
   35,L
    4,R,Z
    1,R,J
    7,R
-  11,J
-   6,R,J
+   8,J
+   7,R,J
+   1,J
   16,U,X
    1,R
   10,R,J,G
@@ -1438,38 +1419,27 @@ endstunpause
   16,R,J
   19,U,X
   16,R,D,C
-  10,R,Z
+   7,L,Z
    1,R,J
-   4,R
-  17,R,D,X
-  10,R,J
-  10,R
-  15,R,U,Z
-  10,G
-   5,R,J,G
-   1,R,K,G
-   2,L,K
-   1,K
-   1,L,K
-   1,K
-  14,J
-  10,R,Z
+   7,R
+   7,R,J
+   9,R
+   1,R,J
+   7,R
+  33,R,U,X
+   7,R,Z
    1,L,J
-   4,L
-  17,L,D,X
-  20,L,J
    6,L
-  22,L,J
-  14,L,U,X
-   1,L,J,G
-   3,L
-
+  18,L,J
+   7,L
+  24,L,J
+   4,L
+  26,L,U,X
 
 #lvl_00-END_0-00
-  10,R
-   4,R,Z
-   2,R,J
-   8,R
+  10,R,D,C
+   1,R,J
+   7,R
    1,R,J
   14,R,D,X
    1,R,J
@@ -1516,4 +1486,4 @@ endstunpause
    7,R
   25,U,X
 
-ChapterTime: 4:01.247(14191)
+ChapterTime: 3:59.581(14093)
