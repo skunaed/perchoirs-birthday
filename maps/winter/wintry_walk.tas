@@ -1,4 +1,4 @@
-RecordCount: 5986
+RecordCount: 6110
 
 Set, DebugMode, true
 console clrsav
@@ -626,27 +626,25 @@ SaveAndQuitReenter
   12,R,U,Z
    1,R,J,G
    9,R
-  21,R,J
-   2,R
-   1,R,J
-  10,R
+  12,R,J
+  19,R
   15,R,X
-  28
-  14,R,Z
+   2,R,D
+  20,L,D
+  14,R,D,X
+   1,R,J
+  14,R,D,X
    1,R,J
   16,R,D,X
-   1,R,J
-   1
-   2,R
-  18,R,D,X
-   3,R,J
-   1,R,K,G
-  24,R,J,G
-  28,R
-  15,R,X
-  11,L,J
-  25,U,X
-  24,D
+   2,R,J
+  17,R,D,X
+   2,R,J
+  19,R,K,G
+  29,R
+  16,R,X
+  11,J
+  15,U,X
+  35,D
   11,R,Z
    2,R,J
    3,R,K,G
@@ -934,7 +932,7 @@ SaveAndQuitReenter
 
 #lvl_risingsunlight
 #spinner cycle
-   2
+   0
 #
    4,R,C
    2,R,J
@@ -1486,4 +1484,4 @@ endstunpause
    7,R
   25,U,X
 
-ChapterTime: 3:59.581(14093)
+ChapterTime: 3:59.479(14087)
