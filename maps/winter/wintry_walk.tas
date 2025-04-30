@@ -1,4 +1,4 @@
-RecordCount: 6110
+RecordCount: 6246
 
 Set, DebugMode, true
 console clrsav
@@ -658,85 +658,51 @@ SaveAndQuitReenter
   34
 
 #lvl_cacarafe
+# spinner cycle
+   0
+#
   15,U,C
   13
-   6,R
-   4
-   4,R
-  10,L,X
-  10,R,J
-  10,R
-   1,R,J,G
-   7,R
-  11,R,J
-  23,R,Z
-   9,L
    5,R
-  14,R,Z
-   1,L,J
-  18,L,D,X
-   2,L,J
-  24,L,D
-  14,L,Z
-   1,R,J,G
-   1,L,J
-  44,L,U,G
-   6,J,G
-   5,L,J
-   5,L
-   1,L,K,G
-   7,L
-   9,R,X
-   9,R,J
-   5,R
-  12,R,K
-  13,R,U,X
-   4,L
-  10,R,X
-  10,J
-  21,D
-   8,R,D
-   2
-  12,R
-  19,L,X
-  25,L,D,C
-   9,L,D,X
-   1,L,J
-   7,L
-  28,L,J
+   3,D
+  12,L,D,X
+  16,L,J
   36,U,G
-   7,J,G
-  14
-   3,R
-   1,R,J
-   4,R
-   2
-  15,L,Z
-  14,R
-  15,D
-   2,L,D
-  18,L,D,X
-  15,R,U,C
-  22,D
-  16,D,X
-  15,L,Z
-  23,R
-   3
-  10,R,D,X
-  36,L,J
- 167,U,X
+   4,J,G
+   7,K,G
+  17,L,G
+   3,L,J,G
+  16,L
+  14,R,D,X
+   1,L,J
+   5,L,D,X
+   1,L,J,G
+   9,L
+StunPause
+   5,L
+   6,L,J
+SkipInput 3 1
+  15,L,D,X
+   6,L
+EndStunPause
+  14,L
+   1,L,D
+   3,L
+   1,L,D,J
+  20,L,J
+ 157,U,X
 
 #lvl_ampheur
   13
-   4,L,Z
+   5,R,D,X
    1,L,J
    3,L
-   1,L,J
-   3,L
+   2,L,J
+   2,L
   11,L,J
   18,L,U,X
-  14,L,C
-   4,R,G
+  15,L,C
+   4,R,J,G
   10,R,X
    6,R,J
   17,R,K
@@ -769,7 +735,6 @@ SaveAndQuitReenter
   20
    1,R
   12
-
 #lvl_theo
    2,R,D
    6,R,Z
@@ -932,8 +897,7 @@ SaveAndQuitReenter
 
 #lvl_risingsunlight
 #spinner cycle
-   0
-#
+   2
    4,R,C
    2,R,J
    9,R
@@ -1484,4 +1448,4 @@ endstunpause
    7,R
   25,U,X
 
-ChapterTime: 3:59.479(14087)
+ChapterTime: 3:54.430(13790)
