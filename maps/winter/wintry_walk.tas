@@ -1,4 +1,4 @@
-RecordCount: 6246
+RecordCount: 6288
 
 Set, DebugMode, true
 console clrsav
@@ -660,26 +660,25 @@ SaveAndQuitReenter
 #lvl_cacarafe
 # spinner cycle
    0
-#
+
   15,U,C
-  13
-   5,R
-   3,D
-  12,L,D,X
-  16,L,J
-  36,U,G
-   4,J,G
-   7,K,G
+   2
+  16,L
+   4,L,Z
+  17,L,J
+  34,U,G
+   3,J,G
+   8,K,G
   17,L,G
    3,L,J,G
-  16,L
+  14,L
   14,R,D,X
    1,L,J
    5,L,D,X
    1,L,J,G
-   9,L
+   8,L
 StunPause
-   5,L
+   6,L
    6,L,J
 SkipInput 3 1
   15,L,D,X
@@ -897,7 +896,7 @@ EndStunPause
 
 #lvl_risingsunlight
 #spinner cycle
-   2
+   1
    4,R,C
    2,R,J
    9,R
@@ -1448,4 +1447,4 @@ endstunpause
    7,R
   25,U,X
 
-ChapterTime: 3:54.430(13790)
+ChapterTime: 3:54.175(13775)
