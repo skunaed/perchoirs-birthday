@@ -1,4 +1,4 @@
-RecordCount: 432
+RecordCount: 527
 
 console load PerchoirsBirthday/3-PerchoirsBirthday_AprJun/RibloxBirthday
    1
@@ -32,25 +32,20 @@ console load PerchoirsBirthday/3-PerchoirsBirthday_AprJun/RibloxBirthday
    4,R,Z
    1,R,J
    7,R
-   9,R,J
-   2,J
-   5,U,X
-   1,R,J
-   1,J
-   5,R,J
-   2,R
-   1,R,K,G
+   3,R,J
+   5,J
+  14,R,U,Z
    1,R,J,G
-  14,R
-   1,R,J
-   2,J
+  10,R
+   4,R,J
+
 
 #lvl_2
    3,J
-   6,R,Z
+   5,L,Z
    1,L,J
    7,L
-  18,L,J
+  17,L,J
    3,K,G
   12,R,J
   10,L,Z
@@ -66,35 +61,26 @@ console load PerchoirsBirthday/3-PerchoirsBirthday_AprJun/RibloxBirthday
    9,R,U,X
    7,R,J,G
   21,R
-   1,R,J
-  14,R
-   3,R,J
-   1,J
-   8,U,X
-   1,R,J
-   1,J
    5,R,J
-   2,R
-   1,R,J,G
-   1,R,K,G
-  14,R
-   3,R,J
+   8,R
+   1
+  14,R,U,Z
+   3,R,J,G
+  11,R
 
 #lvl_3
-   9,R,J
-  17,U,X
-  12,L,J,G
-   4,L,K,G
-   7,L
-   1,J
-   2,L,J
-   4,J
+  12,L,J
+  15,U,X
+   9,R,J,G
+   7,R,K,G
+   7,R
+   3,J
+   4,R,J
   15,U,X
    6,R,J
    1,R,K,G
+   4,R,J,G
    1
-   3,R,J,G
-   2
    1,K,G
    5,R
    1
@@ -117,8 +103,8 @@ console load PerchoirsBirthday/3-PerchoirsBirthday_AprJun/RibloxBirthday
    4,R
    2
    1,L
-   2,L,J
-   3,J
+   1,L,J
+   4,J
   17,U,X
    1,R,J,G
    1,R,K,G
@@ -139,22 +125,19 @@ console load PerchoirsBirthday/3-PerchoirsBirthday_AprJun/RibloxBirthday
    2,R
    1,R,K,G
    1,R,J,G
-  14,R
-   3,R,J
+  15,R
+   5,L,X
 
 #lvl_4
-   2,R,J
-  10,R,X
-  14,L,J
-  10,U,X
-   3,J
+   5,L,X
+   7,L,J
+  15,U,X
+   7,R,J
    1,R,K,G
-   1,R,J,G
-   5,R,K,G
    7,R
    4,R,Z
    1,R,J
-   8,R,D
+   9,R,D
    6,R,J
   11,R,K,G
   12,R,J
@@ -203,10 +186,10 @@ console load PerchoirsBirthday/3-PerchoirsBirthday_AprJun/RibloxBirthday
 
 #lvl_heart
    7,U,X
-Repeat, 67
+Repeat,67
    1,R
    1,L
 EndRepeat
    1
 
-ChapterTime: 0:18.989(1117)
+ChapterTime: 0:18.496(1088)
