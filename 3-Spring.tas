@@ -22,3 +22,9 @@ Read,EnterLevel,Start
 Read,maps/spring/cpltb,Start
    1,O
   32
+
+Read,lobby/spring/3-4,Start
+Read,EnterLevel,Start
+Read,maps/spring/josh_57,Start
+   1,O
+  32
