@@ -1,4 +1,4 @@
-RecordCount: 648
+RecordCount: 684
 
 console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/GeflutBirthday
    1
@@ -63,21 +63,16 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/GeflutBirthday
    8,R,J
    9,R
    1,R,J
-  16,R
-   3
-   5,R,U,X
-   4,R,J,G
-   5,R
-   4,R,J
-   7,R
-   1,R,J
+  25,R
   15,R,D,X
+   6,R,J
+  10,R,D,C
   40
 
 #lvl_4
-   1,R,J
-   9,R,K,G
-   9,R
+   5,R,D,X
+   5,R,J
+   7,R
   15,U,X
   10,L
   12,J,G
@@ -114,4 +109,4 @@ console load PerchoirsBirthday/1-PerchoirsBirthday_OctDec/GeflutBirthday
    1,R,K,G
   28,R,K
 
-ChapterTime: 0:12.920(760)
+ChapterTime: 0:12.818(754)
