@@ -1,4 +1,4 @@
-RecordCount: 2727
+RecordCount: 3649
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/YamyBirthday
    1
@@ -64,81 +64,82 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/YamyBirthday
   16,R,X
   31,J
   50,R,U,X
-  12,R,J
-   6,R
-  28,R,U,X
-  14,R,J,G
-  12,R,K,G
-   6,R
-  15,R
+  11,R,J
+  51,R,U,X
+   6,R,Z
+   4,R,J
+   1,R,K,G
+  30,R,J,G
 
 #lvl_coucou_les_taseurs
-   5,R
-   3,R,J
-   4,R,K,G
-  10,R
-   1,R,J
-  15,R
-   1,R,J
-   2,R,K,G
-   5,R
-   2,R,J
-  43,R
-   1,R,J,G
-   4,L,J
-   1,R,K,G
-   1,R,J,G
-   2,R,K,G
-   5,R
-   2,R,J
-   4,R
-   2
+   3,R,K,G
    1,R
-   2
-   1,R
-  11,R,J
-  13,R
+   2,R,J,G
+   7,R
    1,R,J
-  18,R
-  22,R,J
-  16,R
-   1,R,J,G
-   1,R,K,G
-  11,R
-   1,R,D,J
    6,R
+  11,R,K,G
+   5,R
    1,R,J
-  11,R
-   1
-   1
+   1,L,J
+   6,K,G
+   1,R,K
+   1,R,J,G
+   1,L,J
+   2,J
+   8,R,J
+   1,R,K,G
+   1,R,J,G
+  16,R
+  20,R,J
+   2,R
+   2,R,J
+  15,R
    1,R,J,G
    1,R,K,G
-   2,R
-   1
    9,R
-  20,R,J
-  47,R
-   5,R,D
+   1,R,J
+  17,R,D
+   1
+   4,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   7
+   4,R
+  10,R,J
+   5,R
+   1,R,J
+  52,R
   21,R,U,X
   27,R,U
-  19,F,83
-   4,R
-  96,F,93.1
-  12,R,J
-  26,R
-  21,R,J
+  19,F,88.9
+   6,R
+  73,F,101
+   1,R,J
    1,R,K,G
+   2,K
+   3
+   1,R,J,G
+   5,R
+   2,R,J
+   1,R
+   1,R,J,G
+   9,R
+  34,R,K
    1,R,J,G
    4,L,J
    7,R,J
    1,R,K,G
    1,R,J,G
-  12,R
+   5,R
+   2,R,J
+   5,R
    1,R,J
   14,R
    9,R,J
-  24,R,G
-   3,D,G
+  26,R,G
+   2,D,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
@@ -150,14 +151,18 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/YamyBirthday
   21,R,D
    9,R,J
   20,R
-   4,R,J
-   7,R,K
-   1,R,J,G
+   2,R,J
+   2,L,J
+   1,K
+   2,J,G
+   3,R,J
+   1,R
    1,R,K,G
-   5,R
-   1,R,J
-  17,R,D
-   8,R
+   1,R,J,G
+   5,R,D
+   2,D
+  16,R,D
+   7,R
    7,R,J
   32,R,D
    4,R
@@ -186,14 +191,13 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/YamyBirthday
   10,J
    2,L,J
    4,R,K,G
-   3,R,J,G
-  13,R
+   2,R,J,G
+  12,R
    8,R,J
-  14,R
-   1,R,J
-   5,R
-  10
-  25,R
+   1,R,K
+  20,R
+  11
+  24,R
    7,R,J
    5,R
    3,R,J
@@ -202,19 +206,21 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/YamyBirthday
   14,R
    1,R,J
    8,R
-  12,R,J
-  21,R
-  11,R,J
+   7,L,D
+   1,L,J,G
+   1,K,G
+   1,L,J,G
+   4,R,J
+   4,R
+   7,R,J
    5,R
-   2,R,J
-  10,R
-   1,R,J,G
-  26,R
-   6,R,J
+   4,R,J
+   1,J
    5,R
-   1,R,J
-  16,R
-  14
+   4,R,J
+   1,R,K,G
+  24,R,D
+  18,R
    8,R,J
   15,R,K
    3,K
@@ -235,33 +241,16 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/YamyBirthday
    2,R,J
    5,R,D
   15,D
-  11
-   5,L,J
-  12
-   4,R,J
-  25,R,K
-   6,R
-   9,R,J,G
-   1,J
-   6,R
-   1,R,J,G
-  28
-   8,L,K
-  16,L,J
-   5,J
-   1,L,K,G
-   3,R,K
-   1,L,J,G
-   1,L,K,G
-   4,L,J,G
-   8,L
-   1,L,J
-   2,L
   21
-   4,R,J
-   8,R,K
-  14,R
-  12
+   1,R,K
+  24,L,D
+  30,R,U,X
+   8,L,J
+   2,R,J
+  15,R
+   7,R,J
+  16,R,K
+  15,R
    4,R,J
    1,R,K
   27,R,D
@@ -269,35 +258,40 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/YamyBirthday
    1,R,J
   14,R
   23,R,J
-   3,R,K,G
-   2,L,K
-   5,R,K
-   5,R
-   1,R,J
-  10,R
-  12,R,J
    1,R,K,G
    2,L,K
-   6,R,J,G
-  16,R
+   2,K
+   2,R,K
+   2,R,J,G
+   7,R
+   1,R,J
+   7,R
+  12,R,J
+   1,R,K,G
+   1,L,K
+   2,K
+   2,R,K
+   2,R,J,G
+  15,R
    7,R,J
    5,R
    2,R,J
-  19,R
-   1,R,J,G
-   1,R
+  22,R
    6,R,J
   55,R
   20,R,U,X
-  12,J,G
-  12,R,K,G
    1,J
-   2,K,G
-  10,L,K
-   1,J
-   2,K,G
-   1,R,K
+  25,R,J
+   8,R,K,G
+   1,J,G
+   1,L,J
    1,K
+  10,L,J
+   2,L
+   1,K
+   2,J,G
+   1,R,J
+   1,J
    7,R
    1,R,J,G
   10,R,K,G
@@ -313,19 +307,14 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/YamyBirthday
   11,R
    5,R,J
   20,R
-  10,R,J
-  20,R
-   1,R,J,G
-   1,R,K,G
-  10,R
-   8,R,J
-   5,R
-   1,R,J
+  18,R,J
   14,R
-   7,R,J
-   5,R
+  10,R,J
+  31,R
+  10,R,J
+   8,R
    1,R,J
-  12,R
+  11,R
    1,R,J
    1,R,K
    1,R,J
@@ -342,16 +331,18 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/YamyBirthday
    2,R
    1,R,J
    1,R,K
-  37,R,J
+  33,R,J
+   4,J
    5,R,K,G
   12,R,J,G
    1,R,K,G
    1,R,J,G
   42,R,D
-repeat 8
+repeat 7
    2,D
    1,R
 endrepeat
+   2,D
    5,R,J
    1,R,K,G
    1,R,J,G
@@ -372,15 +363,17 @@ endrepeat
    1,R,K,G
   14,R
    1,R,J
-  19,R
-Repeat, 19
+  15,R
+Repeat, 13
    2,R
    1
    1,L
 EndRepeat
    1,R
   25,R,J
-  22,R
+  10,R
+   1
+  11,R
    3,R,D
    1,R,J,G
    7,R,K,G
@@ -532,16 +525,16 @@ EndRepeat
   39,F,90.0001
    1,R,J
   18,R
-   3,R,J
-   5,R
-  22,R,D
-  37,D
+   4,R,J
+  53,R,D
+  17,D
    8,L,D
-  31,R
+  22,R
    1
+   8,R
    1,R,J,G
-   3,R,K,G
-  27,R,D
+   4,R,K,G
+  28,R,D
   15,L,U,X
    1,L,J,G
    1,L,K,G
@@ -671,9 +664,9 @@ EndRepeat
    6,R
    1,R,J,G
    1,R,K,G
-  14,R
+  15,R
    1,R,J
-  22,R
+  21,R
   17,L
   25,D
    2,L,D
@@ -704,8 +697,8 @@ EndRepeat
    8,R,J
    2,R
    8
-   2,R
-  20,D
+   3,R
+  19,D
   49,R,D
    1,D
    1,R
@@ -737,4 +730,4 @@ EndRepeat
    3,J
  151,U,X
 
-ChapterTime: 1:57.640(6920)
+ChapterTime: 1:53.815(6695)
