@@ -9,7 +9,7 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ZetaBirthday
 #lvl_1
 #spinner cycle 2/3
    1
-# 
+#
    1,L,N
    1,L,J
    2,L
@@ -53,7 +53,7 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ZetaBirthday
    4,R,J,G
   40
 
-#lvl_2
+#lvl_3
   15,R,U,Z
    4,R,J
   14,R,K
@@ -63,7 +63,7 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ZetaBirthday
    1,R,J
   40
 
-#lvl_3
+#lvl_4
   15,R,U,Z
    4,R,J
    4,R,K
@@ -71,7 +71,7 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/ZetaBirthday
    5,R,U,Z
   40
 
-#lvl_4
+#lvl_5
   11,R,U,Z
    4,R,J
   14,R,U,X
