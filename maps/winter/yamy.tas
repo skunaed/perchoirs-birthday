@@ -1,4 +1,4 @@
-RecordCount: 3649
+RecordCount: 3788
 
 console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/YamyBirthday
    1
@@ -276,23 +276,17 @@ console load PerchoirsBirthday/2-PerchoirsBirthday_JanMar/YamyBirthday
    7,R,J
    5,R
    2,R,J
-  22,R
-   6,R,J
-  55,R
-  20,R,U,X
-   1,J
-  25,R,J
-   8,R,K,G
-   1,J,G
-   1,L,J
-   1,K
-  10,L,J
-   2,L
-   1,K
-   2,J,G
-   1,R,J
-   1,J
-   7,R
+  39,R
+  21,R,J
+  19,R,K,G
+  21,R,D
+   5,L,D
+   9,L
+  32,R,J
+   1,R,K,G
+  12,L,J
+   5,R,K
+   6,R
    1,R,J,G
   10,R,K,G
    5,R
@@ -364,50 +358,44 @@ endrepeat
   14,R
    1,R,J
   15,R
-Repeat, 13
+Repeat, 11
    2,R
    1
    1,L
 EndRepeat
    1,R
-  25,R,J
-  10,R
-   1
+  26,R,J
+   7,R
+   2
   11,R
    3,R,D
+   1,R
    1,R,J,G
    7,R,K,G
-  20,R
-  22,R,J
-   4,R,K,G
-   3,L,K
-   2,R,K
-   1,R,J,G
-   1,R,K,G
-   4,R,J,G
   18,R
-Repeat, 6
-   1,R
-   2,D
-EndRepeat
-   1,R
+   6,R,J
+   5,R
    1,R,J
-  27,R
-   2,D
+  31,R
+   4,R,D
    1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   1,R,J
-  27,R
-   2,R,J
-   1,R,K,G
+   1,R,D
+  21,R,U,X
+   9,R,J,G
+   3,R,K,G
+   2,K
+   5,R,K
    1,R,J,G
+   2,R,K,G
   12,R
-  12,R,J
+   1,R,J
+  23,R
+   1,R,J
+   1,R,K,G
+   9,R
+   1,R,J
+  14,R
+   8,R,J
   15,R,X
   43
   15,R,J
@@ -527,14 +515,15 @@ EndRepeat
   18,R
    4,R,J
   53,R,D
-  17,D
-   8,L,D
-  22,R
-   1
-   8,R
+  16,D
+   5,L,D
+   1,D
+  19,R
+   2
+   9,R
    1,R,J,G
    4,R,K,G
-  28,R,D
+  27,R,D
   15,L,U,X
    1,L,J,G
    1,L,K,G
@@ -593,10 +582,10 @@ EndRepeat
    5,R
    5,R,J
    7,R
-   9,R,J
-  39,R
-   5,R,J
-  10,R
+   2,R,J
+  21,R
+  23,R,J
+  17,R
    1,R,J
    1
   10,R
@@ -664,13 +653,13 @@ EndRepeat
    6,R
    1,R,J,G
    1,R,K,G
-  15,R
+  14,R
    1,R,J
   21,R
   17,L
-  25,D
+  26,D
    2,L,D
-  12,D
+  13,D
    2,L,D
    2,R,D
    2,L,D
@@ -699,20 +688,22 @@ EndRepeat
    8
    3,R
   19,D
-  49,R,D
+  29,R,D
    1,D
+  12,R,D
+   1,D
+   2,R,D
+   1,D
+   4,R,D
    1,R
-   2,R,J
-   1,R,K,G
-  11,R
-   1,R,J
-   6,R
-   1
-   7,R
    1,R,J
    1,R,K,G
    1,R,J,G
   11,R
+   1,R,J
+   8,R
+   1,R,J,G
+  13,R
 Repeat, 29
    1,R,J
   14,R
@@ -720,14 +711,14 @@ EndRepeat
    1,R,J
   15,R
    1,R,J
-  22,R
+  20,R
    1,R,J
-  35,R
- 417,R,J
+  33,R
+ 426,R,J
 
 #lvl_summit (1)
    4
    3,J
  151,U,X
 
-ChapterTime: 1:53.815(6695)
+ChapterTime: 1:53.509(6677)
